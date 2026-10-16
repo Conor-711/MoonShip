@@ -1,0 +1,40 @@
+{
+  "scope": "Selected existing presentation-only excerpts; full implementation private",
+  "files": [
+    {
+      "path": "frontend/UiIcon.tsx",
+      "originalPath": "apps/capital-web/src/UiIcon.tsx",
+      "sha256": "6982bca6882c3566735bfab813365d7ab161b036256475d983cbdab7e6f0f275"
+    },
+    {
+      "path": "frontend/styles/post-feed.css",
+      "originalPath": "apps/capital-web/src/post-feed.css",
+      "sha256": "c7884d88b542e832d8ec78a64a69b2c380e50b3c0f40b52ad631c7d8059c58aa"
+    },
+    {
+      "path": "frontend/styles/native-posts.css",
+      "originalPath": "apps/capital-web/src/native-posts.css",
+      "sha256": "75295292a6a091e10d8eccb62c699d08bc3ef90d2e944d7f2e453ae1afd26146"
+    },
+    {
+      "path": "frontend/styles/workspace-layout.css",
+      "originalPath": "apps/capital-web/src/workspace-layout.css",
+      "sha256": "59f514453469b19fb283fbe1d8b3529b7a3354a6bc1a97fd090b8c6cf2db5674"
+    },
+    {
+      "path": "frontend/styles/brand.css",
+      "originalPath": "apps/capital-web/src/brand.css",
+      "sha256": "6106d2fa77459d840806a91ba4400d4cb49f0d399408763c75d4a3585cf7def7"
+    },
+    {
+      "path": "assets/moonship.png",
+      "originalPath": "apps/capital-web/src/assets/brand/moonship.png",
+      "sha256": "0c95c22480a5b6862a6698da647ebeb9cc9cd880322f482ca3c1a28408e1eb05"
+    },
+    {
+      "path": "assets/favicon.png",
+      "originalPath": "apps/moonship-site/assets/favicon-v2.png",
+      "sha256": "917f957b0a0678d72827d4cff91507987e2727eefdd10ed6dce8ee5ec6db2e12"
+    }
+  ]
+}

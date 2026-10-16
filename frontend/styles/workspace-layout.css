@@ -1,0 +1,80 @@
+/* Shared hierarchy for the wallet and social frontends. */
+.ms-page [hidden]{display:none!important}
+.wa-overview-top,.wa-overview-top>div,.wa-list-actions,.wallet-subpage-heading,.cp-utilities,.chat-heading-actions{display:flex;align-items:center;gap:8px}
+.wa-overview-top{justify-content:space-between;color:var(--moon-muted);font-size:11px}
+.wa-overview-top .wa-address-chip{background:none;border:0;padding:6px 0;font-size:11px}
+.wa-overview .wa-total{margin:12px 0 16px;gap:4px}
+.wa-total>strong{line-height:1.25;font-variant-numeric:tabular-nums}
+.wa-available{display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:11px;color:var(--moon-muted);border-top:1px solid var(--moon-border);padding:12px 0}
+.wa-available strong{font-size:14px;font-weight:500;color:var(--moon-text);overflow-wrap:anywhere;font-variant-numeric:tabular-nums}
+.wa-available small{font-size:11px;color:var(--moon-muted);font-weight:400}
+.wa-overview .wa-actions{justify-content:space-around;gap:12px;margin:12px 0 0}
+.wa-overview .wa-actions>button{min-width:48px}
+.wa-manage,.wa-list-options{position:relative}
+.wa-manage>summary,.wa-list-options>summary{display:grid;place-items:center;list-style:none;width:32px;height:32px;cursor:pointer;border-radius:8px}
+.wa-manage>summary::-webkit-details-marker,.wa-list-options>summary::-webkit-details-marker{display:none}
+.wa-manage-menu,.wa-list-options>.wa-zero-toggle{position:absolute;right:0;top:36px;z-index:15;min-width:150px;padding:6px;border:1px solid var(--moon-border);background:var(--moon-surface);border-radius:12px;box-shadow:0 8px 32px #0005}
+.wa-manage-menu button{display:block;width:100%;padding:10px;border:0;background:none;color:var(--moon-text);text-align:left;font-size:12px;border-radius:7px;cursor:pointer}
+.wa-manage-menu button:hover{background:var(--moon-raised)}
+.ms-page .wa-list-options>.wa-zero-toggle{padding:12px;margin:0;font-size:12px}
+.wa-valuation-note{font-size:11px;color:var(--moon-muted)}
+.wa-valuation-note>summary{cursor:pointer;list-style:none}
+.wa-valuation-note p{font-size:11px;line-height:1.6;margin:8px 0;color:var(--moon-muted)}
+.wa-scope-note p{font-size:11px;line-height:1.6}
+.wallet-subpage-heading{margin-bottom:16px}
+.wallet-subpage-heading h2{font-size:18px;margin:0}
+.wallet-subpage-heading .wa-icon-button{width:32px;height:32px}
+.wallet-tools[data-open=true] .wallet-tool-card{margin:0;padding:0;border:0;background:none}
+.wa-portfolio:has(.wallet-tools[data-open=true]) .wa-tabs{display:none}
+.wa-section-heading{flex-direction:row-reverse;justify-content:flex-end;gap:12px}
+.wa-section-heading .wa-icon-button{width:32px;height:32px}
+.wa-receive{border:0;background:none;padding:0}
+.cp-utilities{margin-left:auto;gap:2px}
+.cp-utilities .cp-icon-button{position:relative}
+.cp-utilities .notification-badge,.cp-utilities .chat-unread{position:absolute;top:-2px;right:-3px;min-width:14px;height:14px;font-size:9px;margin:0}
+.cp-person>.cp-edit{margin-left:0}
+.notification-inbox .network-heading{flex-wrap:nowrap;gap:8px}
+.notification-inbox .network-heading h3{flex:1;margin:0}
+.notification-inbox .network-heading .text-button{font-size:11px;white-space:nowrap}
+.chat-heading{gap:8px}
+.chat-heading h2{flex:1;min-width:0;margin:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.chat-heading .cp-icon-button{width:34px;height:34px;padding:7px;display:grid;place-items:center;background:none;border:0;color:var(--moon-muted);border-radius:8px;cursor:pointer}
+.chat-inbox{margin-top:0}
+.chat-inbox .chat-room{padding:14px 0;border:0;border-bottom:1px solid var(--moon-border);border-radius:0;margin:0;background:none;gap:12px}
+.chat-room>.chat-room-info{display:grid;gap:4px;flex:1;min-width:0}
+.chat-room strong{font-size:13px;font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.chat-empty,.chat-welcome{text-align:center;padding:40px 16px}
+.chat-empty>.ui-icon,.chat-welcome-icon{width:44px;height:44px;margin:0 auto 16px;color:var(--moon-primary)}
+.chat-welcome-icon{display:grid;place-items:center;background:var(--moon-surface);border-radius:14px}
+.chat-empty p{font-size:12px;color:var(--moon-muted)}
+.chat-thread-options>summary{display:flex;align-items:center;justify-content:flex-end;gap:8px;font-size:11px;color:var(--moon-muted);list-style:none;cursor:pointer}
+.chat-thread-options>summary::-webkit-details-marker{display:none}
+.chat-thread-options .chat-thread-tools{justify-content:flex-end}
+.chat-start label{font-size:12px}
+.people-counts{display:flex;align-items:center;gap:16px;margin:12px 0;font-size:12px}
+.people-counts button{border:0;background:none;padding:6px 0;color:var(--moon-text);font:inherit;cursor:pointer}
+.people-counts .people-share{margin-left:auto;color:var(--moon-primary)}
+.people-actions{display:flex;gap:8px;margin:16px 0}
+.people-actions button{flex:1;padding:10px;border:1px solid var(--moon-border);border-radius:10px;background:var(--moon-surface);color:var(--moon-text);font:inherit;font-size:12px;cursor:pointer}
+.people-actions button:first-child{background:var(--moon-primary);color:var(--moon-on-primary,#100d18);border-color:transparent}
+.network-token>div .text-button{font-weight:500;color:var(--moon-text)}
+.network-record-details{width:100%;font-size:11px;color:var(--moon-muted)}
+.network-record-details>summary{cursor:pointer}
+.network-record-details code,.network-record-details a{display:block;margin:8px 0}
+.ms-influencer-picker{border:1px solid var(--moon-border);border-radius:12px;margin:10px 0;overflow:hidden}
+.ms-influencer-picker>summary{list-style:none;display:flex;align-items:center;gap:10px;padding:12px;cursor:pointer;font-size:12px}
+.ms-influencer-picker>summary::-webkit-details-marker{display:none}
+.ms-influencer-picker>summary>span{color:var(--moon-muted)}
+.ms-influencer-picker>summary>strong{margin-left:auto;min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-weight:500}
+.ms-influencer-picker>summary>.ui-icon{width:15px;height:15px;flex-shrink:0;color:var(--moon-muted)}
+.ms-source-picker-body{padding:0 12px 12px}
+.ms-source-proof{font-size:11px;color:var(--moon-muted);margin:8px 0}
+.ms-source-proof summary{cursor:pointer}
+.ms-source-proof code{font-size:11px}
+.ms-page .ms-subject-result{display:flex;flex-direction:row;align-items:center;gap:10px;text-align:left}
+.ms-subject-result-name{display:grid;gap:3px;min-width:0}
+.ms-subject-result-name small{font-size:11px;color:var(--moon-muted)}
+.ms-subject-result-id{margin-left:auto;font-size:10px;color:var(--moon-muted);flex-shrink:0}
+.cp-directory-link{display:flex;align-items:center;gap:5px;font-size:11px;margin:10px 0 0}
+.cp-directory-link>.ui-icon{width:13px;height:13px}
+.ms-page :is(button,summary,input,textarea,select):focus-visible{outline:2px solid var(--moon-primary);outline-offset:2px}

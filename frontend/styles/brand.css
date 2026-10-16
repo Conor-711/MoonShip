@@ -1,0 +1,102 @@
+/* Shared MoonShip presentation. Existing product flows and data remain authoritative. */
+:where(html.moonship-popup,html:has(.ms-page),.ms-page,.extension-app){
+ --moon-bg:#100d18;--moon-surface:#1d172b;--moon-raised:#282039;--moon-field:#1d172b;
+ --moon-panel:#30263f;--moon-border:#383045;--moon-muted:#b4a8c6;--moon-text:#f0eaf9;
+ --moon-primary:#ae91ff;--moon-purple:#ae91ff;--moon-hover:#c0aaff;--moon-on-primary:#160c2c;--moon-lavender:#b498ff;
+ --ms-line:var(--moon-border);--ms-surface:var(--moon-raised);--ms-accent:var(--moon-primary);
+ color:var(--moon-text);background:var(--moon-bg);color-scheme:dark;
+ --moon-ui-font:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",Arial,sans-serif;font-family:var(--moon-ui-font);
+}
+html:has(.ms-page){background:var(--moon-bg);color:var(--moon-text);color-scheme:dark;font-family:var(--moon-ui-font)}
+.moonship-logo{display:block;flex-shrink:0;object-fit:contain;mix-blend-mode:screen;filter:invert(1) hue-rotate(180deg)!important;border:0}
+.ms-page{color:var(--moon-text);background:var(--moon-bg)}
+.ms-page :is(h1,h2,h3){letter-spacing:-.025em}
+.ms-page :is(.button,.buy),.ext-auth .button,.moonship-popup .popup-boot .button{border-color:var(--moon-border);color:var(--moon-text);border-radius:5px}
+.ms-page .button.primary,.ms-page .buy,.ext-auth .button.primary,.moonship-popup .popup-boot .button.primary{background:var(--moon-primary);border-color:var(--moon-primary);color:var(--moon-on-primary)}
+.ms-page :is(.button.primary,.buy):hover:not(:disabled),.ext-auth .button.primary:hover:not(:disabled){background:var(--moon-hover);border-color:var(--moon-hover)}
+.ms-page :is(button,a,input,select,textarea):focus-visible,.ext-auth :is(button,a):focus-visible,.moonship-popup .popup-boot button:focus-visible{outline:2px solid var(--moon-primary);outline-offset:3px}
+.ms-page :is(input,select,textarea){background:var(--moon-field);color:var(--moon-text);border-color:var(--moon-border)}
+.ms-page :is(input,select,textarea):focus-visible{border-color:var(--moon-primary);box-shadow:0 0 0 2px #ae91ff15}
+.ms-page .ms-amount-box input{background:transparent;box-shadow:none}
+.ms-page input::placeholder{color:var(--moon-muted);opacity:.8}
+.ms-page .attribution-choice input{accent-color:var(--moon-primary)}
+.ms-page .ms-steps .current>span{background:var(--moon-primary);border-color:var(--moon-primary);color:var(--moon-on-primary)}
+.ms-page .ms-logo,.extension-app .ms-logo{width:36px;height:30px;background:none;border-radius:0;color:inherit}
+.ms-page .ms-pill,.extension-app .ms-pill{background:transparent;color:var(--moon-muted);border-color:var(--moon-border);border-radius:3px}
+.ms-page .ms-welcome-mark{width:84px;height:68px;background:none;border:0;margin:24px 0}
+.ms-page .ms-welcome-mark .moonship-logo{width:84px;height:68px}
+.ms-page :is(.ms-status-dot,.status-dot.active){background:var(--moon-primary)}
+.ms-page :is(.ms-steps .current,.ms-steps .done){color:var(--moon-lavender)}
+.ms-page .ms-steps li>span{border-color:var(--moon-border)}
+.ms-page :is(label,.ms-muted,.ms-details,.ms-funding p,.ms-connected,.ms-eyebrow,.ms-steps,
+ .ms-amount-box>span,.ms-quote-expiry,.ms-quote-summary dt,.ms-trade-progress li,.ms-trade-progress p,
+ .ms-balance-grid span,.ms-balance-grid small,.ms-credit-row span,.ms-empty-card,.ms-empty-card span,
+ .ms-token>div>span,.ms-token details,.ms-footer,.extension-history,.ms-claim-hash,.ms-session>p,
+ .ms-sync-bar,.trade-note,.action-summary,.action-record details,.action-person>span,.action-person p,.action-arrow,dt),.ext-auth p{color:var(--moon-muted)}
+.ms-page .text-button{color:var(--moon-lavender)}
+.ms-page :is(.ms-address code,.ms-amount-box strong,.ms-empty-card p,.ms-stats strong,.ms-quote-summary .ms-total,.action-person strong){color:var(--moon-text)}
+.ms-page :is(.ms-received,.ms-token b,.action-person code,.discovery-source a,.post-card a,.author-state,
+ .participants p,.asset-status.quote_available,.trade-status,.ms-trade-progress li.done,.ms-trade-progress li.current){color:var(--moon-lavender)}
+.ms-page :is(.ms-address,.ms-amount-box,.ms-balance-grid>div,.ms-empty-card,.ms-token,.ms-sync-bar,
+ .ms-token-search,.action-person,.post-card,.asset-card){background:var(--moon-surface);border-color:var(--moon-border);border-radius:6px}
+.ms-page :is(.ms-order-relation,.discovery-source,.ms-trade-progress,.pending-row){background:var(--moon-raised);border-color:var(--moon-border);border-radius:6px}
+.ms-page :is(.ms-details,.ms-credit-card,.ms-holdings,.ms-token-result,.ms-quote-summary .ms-total,
+ .extension-history,.action-history,.action-record,.participants,.asset-group){border-color:var(--moon-border)}
+.ms-page .badge{background:var(--moon-raised);color:var(--moon-lavender)}
+.ms-page :is(.ms-top-up,.ms-trade-progress.recovered){background:#302318;border-color:#614527;color:#ffd39a}
+.ms-page :is(.ms-quote-expiry.expired,.ms-insufficient p){color:#ffc577}
+.ms-page :is(.ms-error,.chat-error){background:#321b2d;border-color:#6a374f;color:#f5bed0}
+.ms-page .ms-asset-label,.ms-page :is(.ms-asset-current small,.ms-asset-options small){color:var(--moon-muted)}
+.ms-page .ms-asset-current{background:var(--moon-surface);border-color:var(--moon-border);color:var(--moon-text);border-radius:6px}
+.ms-page .ms-asset-current>span:last-child{color:var(--moon-muted)}
+.ms-page .ms-asset-options{background:var(--moon-surface);border-color:var(--moon-border);border-radius:6px;box-shadow:0 8px 25px #271b3510}
+.ms-page .ms-asset-options button{color:var(--moon-text);border-radius:4px}
+.ms-page .ms-asset-options :is(button:hover,button:focus-visible,[aria-selected=true]){background:var(--moon-raised)}
+.ms-page .ms-asset-options button:focus-visible{outline:2px solid var(--moon-primary);outline-offset:-2px}
+.ms-page .ms-asset-check{color:var(--moon-primary)}
+.ms-page .ms-amount-box{border:0;border-bottom:1px solid #7c6a95;border-radius:0;background:transparent;padding:10px 0 14px}
+.ms-page .ms-amount-box input{font-family:var(--moon-ui-font);font-size:38px;font-variant-numeric:tabular-nums;letter-spacing:-1px}
+.ms-page .ms-amount-box>label{font-size:11px}
+.ms-page .ms-order-relation{border-left:2px solid var(--moon-primary)}
+.ms-page :is(.cp-metrics strong,.wa-balance strong,.wa-detail-amount strong){font-family:var(--moon-ui-font);font-weight:500}
+.ms-page .cp-identity{padding-bottom:19px}
+.ms-page .cp-identity h1{font-size:24px!important;letter-spacing:-.6px;font-weight:500}
+.ms-page .cp-avatar{background:var(--moon-panel);border:1px solid #56446b}
+.ms-page .cp-bio{font-size:12px;line-height:1.8}
+.ms-page .cp-metrics{border-top:1px solid var(--moon-border);padding-top:14px;gap:18px;margin-bottom:11px}
+.ms-page .cp-metrics button>span{font-size:10px;letter-spacing:.6px}
+.ms-page .cp-metrics strong{font-size:27px;letter-spacing:-.7px}
+.ms-page .cp-counts{gap:8px 17px;padding-bottom:14px}
+.ms-page .cp-counts span{font-size:11px}
+.ms-page .cp-tabs>button[role=tab]{font-size:12px;min-height:44px}
+.ms-page .cp-fan{margin:10px 0;border:1px solid var(--moon-border);border-left:2px solid #68518e;background:var(--moon-surface);border-radius:4px}
+.ms-page .cp-fan-row{padding:14px 11px}
+.ms-page .cp-fan-info strong{font-size:15px;letter-spacing:-.3px}
+.ms-page .cp-fan-info>span{font-size:10px}
+.ms-page .cp-fan-balance strong{font-family:var(--moon-ui-font);font-size:18px}
+.ms-page .cp-fan-row:hover,.ms-page .cp-fan-row:focus-visible{background:var(--moon-raised)}
+.ms-page .cp-detail-fan-logo{padding:20px;background:var(--moon-surface);border:1px solid var(--moon-border);border-radius:5px}
+.ms-page .cp-detail-amount{font-family:var(--moon-ui-font);font-size:32px}
+.ms-page .cp-detail-amount>span{font-family:Arial,sans-serif}
+.ms-page :is(.chat-start,.chat-gates,.chat-room,.chat-message,.chat-compose textarea,.wa-receive){border-radius:6px}
+.ms-page .chat-heading h2{font-weight:500;font-size:23px}
+.ms-page .chat-compose textarea:focus-visible{outline-color:var(--moon-primary)}
+.ms-page .chat-message.mine{background:var(--moon-raised)}
+.ms-page .wa-address-chip{border-radius:4px}
+.ms-page .wa-action-icon{background:var(--moon-surface)}
+.ms-page .wa-fan-row>summary b{font-family:var(--moon-ui-font);font-size:16px}
+.ms-page .ms-header strong{font:24px var(--moon-ui-font);letter-spacing:-.6px}
+.ms-page :is(.ms-session,.ms-setup)>p{color:var(--moon-muted)}
+.ext-auth{background:var(--moon-bg);color:var(--moon-text)}
+.ext-auth h1{font:42px var(--moon-ui-font);letter-spacing:-1px;margin:10px 0 22px}
+.ext-auth>.moonship-logo{width:116px;height:86px;margin:15px 0 23px}
+.brand-kicker{display:block;font-size:9px;letter-spacing:1.5px;color:var(--moon-muted)}
+.ext-auth code{padding:14px;background:var(--moon-surface);border:1px solid var(--moon-border);border-radius:4px;color:var(--moon-text);margin:12px 0}
+.popup-boot .moonship-logo{margin:12px 0 18px}
+@media(prefers-reduced-motion:reduce){.ms-page *,.ext-auth *{transition:none!important}}
+
+/* Plain type for shared web and extension surfaces. */
+.ms-page :is(.cp-metrics strong,.wa-balance strong,.wa-detail-amount strong,
+ .cp-fan-balance strong,.cp-detail-amount,.wa-fan-row>summary b,
+ .ms-amount-box input){font-variant-numeric:tabular-nums lining-nums;letter-spacing:0}
+.ms-page .ms-header strong,.ext-auth h1{font-weight:600;letter-spacing:0}
