@@ -12,6 +12,7 @@ Updated 17 October 2026. This document separates implemented private functionali
 | Native posting and combined native/X discovery feed | Implemented; full source private | Product overview and Discover workspace |
 | People / post discovery rankings and author post archives | Implemented; full source private | Feature summary and application |
 | Relationship-holder direct messages and groups | Implemented; full source private | Feature summary and application |
+| Additional EVM chains | Discovery and execution adapters implemented privately; new-chain trading not deployed or activated | [Dated updates](../UPDATES.md) |
 | Network selection, test-token access, language and appearance settings | Implemented; full source private | Application settings and product explanation |
 
 ## What supports these statements
@@ -25,3 +26,7 @@ Publication of a link, a successful build, local integration and an individual u
 Protocol mechanics, smart contracts, detailed SDK logic, transaction and signature processing, settlement verification, indexing internals, holder-accounting implementation, internal tests and deployment tooling are maintained privately. Text descriptions here replace those public implementation files; they do not represent unfinished placeholders.
 
 Independent audit completion, external user counts, revenue and fundraising are not asserted by this document.
+
+## Dated progress
+
+See [development updates](../UPDATES.md) for dated product changes. Historical development dates and confirmed publication milestones are identified separately. Future synchronization publishes high-level Markdown updates only; core code and mechanism details remain private.

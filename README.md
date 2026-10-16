@@ -4,7 +4,7 @@
 
 **An open onchain network of capital influence and economic relationships, and a platform for discovering people and information through capital.**
 
-[Website](https://www.moonship.online/) · [Web app](https://app.moonship.online/app/) · [Chrome extension](https://chromewebstore.google.com/detail/nibgedjlfnhdmefhieibfiebmakdoegl) · [中文说明](README.zh-CN.md)
+[Website](https://www.moonship.online/) · [Web app](https://app.moonship.online/app/) · [Chrome extension](https://chromewebstore.google.com/detail/nibgedjlfnhdmefhieibfiebmakdoegl) · [中文说明](README.zh-CN.md) · [Development updates](UPDATES.md)
 
 > **Public repository scope — 17 October 2026**
 >
