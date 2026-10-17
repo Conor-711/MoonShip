@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-18 — Compact social workspace / 紧凑的社交式布局
+
+The web application now uses a centered three-column layout with readable content width, tighter spacing and a public people sidebar. Existing profile, discovery and swap entries remain accessible, while narrower screens retain the mobile navigation. Language, appearance and page state are preserved.
+
+The web update follows regression and deployed-resource checks. Browser visual acceptance remains separate; full implementation stays private. The existing local extension package is unchanged.
+
+### 中文
+
+网页改为居中的三栏布局，收紧主内容宽度与留白，增加真实主体列表和快捷入口；窄屏保留移动导航，沿用原有中英文、明暗主题与页面状态。
+
+完成回归及线上资源核对后更新网页。浏览器视觉验收另行进行，完整实现继续私有，原插件安装包保持不变。
+
 ## 2026-10-18 — Relationship benefits and holder opportunities / 关系权益与持有人交易机会
 
 Relationship benefits now groups Chats and groups with Trading opportunities. Authors can share and withdraw opportunities for their Relation Token holders, while eligible holders can browse the private updates. Existing chat sessions and drafts are preserved when switching subpages.
