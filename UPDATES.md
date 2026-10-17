@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-18 — More reliable holdings refresh / 修复持仓刷新
+
+Improved historical holdings reads and explicit refresh. Unavailable trade history is now distinguished from active syncing, and partial results are no longer presented as an endless sync. Holdings continue to show current quantities and reference values without PNL.
+
+The web application and existing local extension have been updated after regression and live-read checks. Full source remains private.
+
+### 中文
+
+改善持仓历史数据读取与手动刷新，明确区分历史读取失败和正在同步的状态，避免不完整结果一直显示为“同步中”。持仓继续展示当前数量与参考市值，不展示 PNL。
+
+完成回归与线上只读核验后更新网页及原自用插件，完整源码继续私有。
+
 ## 2026-10-18 — Public holdings / 公开持仓
 
 Profiles now include a Holdings view for assets acquired through settled MoonShip trades. Users can view their own and other people's current quantities and reference market values, with missing data clearly identified. The view is available in English and Chinese.
