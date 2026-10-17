@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-18 — Relation Token fee-share visibility / 关系代币手续费份额展示
+
+Held Relation Tokens now show the wallet's estimated share of the corresponding subject's fee income in lists and details. The view supports English and Chinese, follows confirmed holdings, and distinguishes unavailable data and versions that do not participate.
+
+The web application and existing local extension have been updated following regression checks, a live read and release verification. This is a display update to existing participation rights. Core implementation remains private; store publication is separate.
+
+### 中文
+
+关系代币持仓列表与详情新增当前钱包对应的主体手续费份额百分比，支持中英文，并依据已确认持仓更新；无法读取的数据与未参与分润的版本明确区分。
+
+完成回归检查、线上只读及发布核对后更新网页和原自用插件。本次展示已有参与权益，完整实现继续私有；商店发布另行记录。
+
 ## 2026-10-18 — Clearer subject lists and Discover layout / 优化主体列表与发现页
 
 Subject lists now keep circular avatars, names and profile links aligned, including longer display names. Discover uses one Feed title, with refresh beside the tabs, while retaining posting, pagination and tab state.
