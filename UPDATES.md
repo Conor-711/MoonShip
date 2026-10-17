@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 17 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-17 — Additional-chain trading routes activated / 新增链交易开放
+
+BNB Chain, Base, Arbitrum, Optimism and Polygon routes are enabled in the web application for registered assets and included in the updated extension build. The existing MoonShip flow now provides these network choices alongside its existing routes.
+
+On-chain activation, public API availability, released web assets and the updated extension package were verified. The existing local extension installation was updated; store publication is tracked separately. Successful delivery and failure recovery were checked on isolated mainnet forks with a simulated bridge. The owner will verify real wallet execution through personal use; that acceptance remains separate from activation and local checks.
+
+### 中文
+
+网页已开放 BNB Chain、Base、Arbitrum、Optimism、Polygon 的已登记资产交易入口，新版插件构建已接入相同路线，用户可在原有 MoonShip 流程中选择这些网络。
+
+链上启用、公开接口、线上网页文件和新版插件包已核对；原自用插件安装目录已更新，商店发布另行记录。独立主网分叉完成成功到账与失败恢复核验，其中跨链转发为模拟。真实钱包交易由项目方本人使用验收，与启用及本地核验分别记录。
+
 ## 2026-10-17 — Profile-centered relationship graph
 
 The web relationship graph now centers on the user's own profile while keeping All as the default. Initial display, zoom and reset retain that center and fit the full displayed network. Avatar and name spacing stays in place; a profile without relationships can appear without adding any relationship or trading activity.

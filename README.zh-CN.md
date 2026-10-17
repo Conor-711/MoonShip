@@ -44,7 +44,7 @@ flowchart LR
 | X 插件 | cashtag 发现、Moon 入口、帖子交易统计、主体资本指标 | 部分 UI 图标与样式 |
 | 发现 | 站内原生帖与已结算 X 帖子、人物／观点榜、作者帖子归档 | 文字说明，应用与索引源码私有 |
 | 交流 | 按关系代币持有资格开放的私聊和群组 | 文字说明，权限和服务实现私有 |
-| 环境 | 已配置 Monad／Ethereum 路径与独立测试环境 | 部署与运营实现私有 |
+| 环境 | 已配置 Monad／Ethereum 路径、新增 EVM 链的已登记资产交易与独立测试环境 | 部署与运营实现私有 |
 
 详见[实现状态](docs/IMPLEMENTATION_STATUS.md)、[产品概览](docs/PRODUCT_OVERVIEW.md)与[源码范围](SOURCE_SCOPE.md)。
 

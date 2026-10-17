@@ -44,7 +44,7 @@ Posts are part of their author's economic relationships. Starting from a post or
 | X extension | Cashtag discovery, Moon entry, per-post statistics and capital profile modules | Selected visual source only |
 | Discover | Native posts and settled X posts, people / post rankings, author-specific post archives | Summary only; application and indexing implementation private |
 | Communication | Direct messages and groups with relationship-holder access | Summary only; access and service implementation private |
-| Environments | Configured Monad / Ethereum paths and separate testing environments | Runtime setup and operations private |
+| Environments | Configured Monad / Ethereum paths, additional EVM routes for registered assets, and separate testing environments | Runtime setup and operations private |
 
 Read [implementation status](docs/IMPLEMENTATION_STATUS.md), [the product overview](docs/PRODUCT_OVERVIEW.md), and [the source boundary](SOURCE_SCOPE.md).
 
