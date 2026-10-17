@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 17 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-17 — More reliable asset search and trading availability / 改善资产搜索与交易可用性
+
+Asset search has clearer availability checks, localized errors and recovery from temporary reads. Routing coverage has expanded within supported markets, and additional common assets, including AERO on Base and UNI on Ethereum, have been enabled. A searchable asset is distinguished from an available trading route.
+
+The web release and existing local extension installation are updated. Verification covers route and availability checks, isolated application tests and finalized administrative admissions. Store publication and real wallet execution acceptance remain separate.
+
+### 中文
+
+改善资产搜索、临时读取失败的恢复和中英文提示，扩大已支持市场内的路由覆盖，并补充开放 Base AERO、Ethereum UNI 等常用资产。搜索结果与实际可交易状态明确区分。
+
+网页和原自用插件已更新。核验覆盖路由与可用性、隔离应用检查及最终确认的管理操作；商店发布和真实钱包成交验收分别记录。
+
 ## 2026-10-17 — Additional-chain trading routes activated / 新增链交易开放
 
 BNB Chain, Base, Arbitrum, Optimism and Polygon routes are enabled in the web application for registered assets and included in the updated extension build. The existing MoonShip flow now provides these network choices alongside its existing routes.
