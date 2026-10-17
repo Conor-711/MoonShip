@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-18 — Clearer subject lists and Discover layout / 优化主体列表与发现页
+
+Subject lists now keep circular avatars, names and profile links aligned, including longer display names. Discover uses one Feed title, with refresh beside the tabs, while retaining posting, pagination and tab state.
+
+The web application and existing local extension have been updated after regression checks and released-resource verification. Full source remains private; store publication is separate.
+
+### 中文
+
+修复主体列表头像被横向拉伸的问题，统一头像、姓名与主页入口的对齐，长名称保持在文字区域内。发现页只保留一处 Feed 标题，将刷新放到 Tab 同一行，保留发帖、分页与切换状态。
+
+完成回归检查和发布资源核对后更新网页及原自用插件，完整源码继续私有；商店发布另行记录。
+
 ## 2026-10-18 — More reliable holdings refresh / 修复持仓刷新
 
 Improved historical holdings reads and explicit refresh. Unavailable trade history is now distinguished from active syncing, and partial results are no longer presented as an endless sync. Holdings continue to show current quantities and reference values without PNL.
