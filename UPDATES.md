@@ -8,6 +8,23 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 17 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-17 — Clearer web wallet and relationships / 更清晰的网页钱包与关系视图
+
+**Status: web release verified; extension package unchanged.**
+
+- Swap is a prominent primary action in the web wallet, with secondary wallet
+  actions grouped below it.
+- Relationships uses a compact toolbar for Graph, Relation Tokens, search and
+  scope controls, with clearer selected states and a small-screen layout.
+- Web chat reuses the application login, removing the separate chat-signature
+  step while preserving access checks.
+
+**状态：网页发布已核对；插件安装包未更新。**
+
+- 网页钱包突出兑换主操作，其他钱包操作收纳在下方。
+- 关系页将图谱、关系代币视图切换与搜索、范围筛选整合，强化选中状态并适配小屏。
+- 网页聊天复用应用登录，免去独立聊天签名，同时保留访问权限核验。
+
 ## 2026-10-17 — Product discovery and public progress / 发现体验与公开进展
 
 **Status: released in the web application; current extension build prepared for user acceptance.**
