@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 17 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-17 — Profile-centered relationship graph
+
+The web relationship graph now centers on the user's own profile while keeping All as the default. Initial display, zoom and reset retain that center and fit the full displayed network. Avatar and name spacing stays in place; a profile without relationships can appear without adding any relationship or trading activity.
+
+Graph geometry, profile rendering and compiled web interactions were checked, and the released web files were verified against the tested build. The installed extension and financial behavior are unchanged.
+
+### 中文
+
+网页关系图谱以用户本人为中心，默认仍展示全部关系。初始打开、缩放与重置保持本人居中，同时适配完整网络；继续保留头像和名字间距，没有关系的个人节点也可展示，不增加任何关系或交易事实。
+
+验证覆盖图谱几何、资料展示和编译后网页交互，线上文件已与测试构建核对。已安装插件和资金流程保持原状。
+
 ## 2026-10-17 — Readable full relationship graph
 
 The web relationship graph opens on All by default. Subjects are distributed more clearly, with space for avatars and names and an initial view that includes the full displayed network. Placement remains stable when the same data is refreshed. The Mine view stays available. The personal trading metric is now labeled Capital Deployed alongside Capital Moved.
