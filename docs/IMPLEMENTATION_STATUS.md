@@ -12,7 +12,7 @@ Updated 17 October 2026. This document separates implemented private functionali
 | Native posting and combined native/X discovery feed | Implemented; full source private | Product overview and Discover workspace |
 | People / post discovery rankings and author post archives | Implemented; full source private | Feature summary and application |
 | Relationship-holder direct messages and groups | Implemented; full source private | Feature summary and application |
-| Additional EVM chains | Discovery and execution adapters implemented privately; new-chain trading not deployed or activated | [Dated updates](../UPDATES.md) |
+| Additional EVM chains | Discovery and execution adapters implemented privately; contracts deployed and verified; additional-chain trading activation pending | [Dated updates](../UPDATES.md) |
 | Network selection, test-token access, language and appearance settings | Implemented; full source private | Application settings and product explanation |
 
 ## What supports these statements

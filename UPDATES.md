@@ -25,6 +25,22 @@ development and release records; they were first collected here on 17 October.
 - 关系页将图谱、关系代币视图切换与搜索、范围筛选整合，强化选中状态并适配小屏。
 - 网页聊天复用应用登录，免去独立聊天签名，同时保留访问权限核验。
 
+## 2026-10-17 — Additional-chain contracts deployed / 多链合约部署
+
+**Status: deployments finalized and verified; additional-chain trading not yet activated.**
+
+- Completed contract deployment for BNB Chain, Base, Arbitrum, Optimism and Polygon,
+  with their corresponding protocol components on Monad.
+- Verified all deployment receipts, deployed runtime code and initial bindings.
+- Trading remains closed while execution/recovery acceptance and activation are
+  completed separately. Core implementation and deployment internals stay private.
+
+**状态：合约部署已最终确认并核验；新增链交易尚未开放。**
+
+- 完成 BNB Chain、Base、Arbitrum、Optimism、Polygon 及 Monad 上对应协议组件的合约部署。
+- 部署收据、运行时代码和初始绑定均已核对。
+- 真实执行／恢复验收与正式启用分开推进；核心实现与部署内部细节继续私有。
+
 ## 2026-10-17 — Product discovery and public progress / 发现体验与公开进展
 
 **Status: released in the web application; current extension build prepared for user acceptance.**
@@ -61,7 +77,7 @@ development and release records; they were first collected here on 17 October.
 
 ## 2026-10-14 — Additional-chain development / 多链开发
 
-**Status: discovery and execution adapters implemented; additional-chain trading not deployed or activated.**
+**Status as of 14 October: discovery and execution adapters implemented; additional-chain trading not deployed or activated. See the 17 October deployment update above.**
 
 - Extended asset discovery to BNB Chain, Base, Arbitrum, Optimism and Polygon.
 - Prepared additional-chain execution support and completed local integration,
@@ -69,7 +85,7 @@ development and release records; they were first collected here on 17 October.
 - Deployment, actual execution/recovery validation and activation remain pending.
   Discoverable assets on these chains are not yet tradable through these routes.
 
-**状态：资产发现与交易适配已实现；新增链交易尚未部署、未开放。**
+**截至10月14日：资产发现与交易适配已实现；当时新增链交易尚未部署、未开放。后续部署进展见上方10月17日更新。**
 
 - 资产发现扩展至 BNB Chain、Base、Arbitrum、Optimism 和 Polygon。
 - 已准备新增链交易支持，完成本地集成、公开流动性只读检查及认证报价验证。
