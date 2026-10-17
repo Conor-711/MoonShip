@@ -1,12 +1,24 @@
 # MoonShip development updates / 项目更新
 
-Updated 17 October 2026. These notes summarize user-facing progress. Core source,
+Updated 18 October 2026. These notes summarize user-facing progress. Core source,
 algorithms, parameters and operational details remain private. A development date
 is not an activation date. Retrospective entries below are based on the project's
 development and release records; they were first collected here on 17 October.
 
-更新于 2026 年 10 月 17 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
+更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
+
+## 2026-10-18 — Public holdings / 公开持仓
+
+Profiles now include a Holdings view for assets acquired through settled MoonShip trades. Users can view their own and other people's current quantities and reference market values, with missing data clearly identified. The view is available in English and Chinese.
+
+The web application and existing local extension installation have been updated. Validation covers holdings scope, balance reads, incomplete data, both languages and released resources. Store publication is separate; full implementation remains private.
+
+### 中文
+
+主体资料新增「持仓」，可查看本人及他人通过 MoonShip 已结算交易涉及资产的当前数量和参考市值，无法读取的数据明确标记。支持中文与英文。
+
+网页应用与原自用插件已更新。核验覆盖持仓范围、余额读取、不完整数据、双语展示与发布资源；商店发布另行记录，完整实现继续私有。
 
 ## 2026-10-17 — More reliable asset search and trading availability / 改善资产搜索与交易可用性
 

@@ -40,7 +40,7 @@ Posts are part of their author's economic relationships. Starting from a post or
 | Area | Current implementation | Source in this repository |
 | --- | --- | --- |
 | Protocol | Subject identities, attributed settlement, relationship records, Relation Tokens and received-fee accounting | Summary only; core implementation private |
-| Web application | Profiles, personal economic graph / token views, wallet flows and income views | Selected visual source only |
+| Web application | Profiles, public holdings, personal economic graph / token views, wallet flows and income views | Selected visual source only |
 | X extension | Cashtag discovery, Moon entry, per-post statistics and capital profile modules | Selected visual source only |
 | Discover | Native posts and settled X posts, people / post rankings, author-specific post archives | Summary only; application and indexing implementation private |
 | Communication | Direct messages and groups with relationship-holder access | Summary only; access and service implementation private |
