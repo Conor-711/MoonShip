@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 17 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-17 — Readable full relationship graph
+
+The web relationship graph opens on All by default. Subjects are distributed more clearly, with space for avatars and names and an initial view that includes the full displayed network. Placement remains stable when the same data is refreshed. The Mine view stays available. The personal trading metric is now labeled Capital Deployed alongside Capital Moved.
+
+Validation covers different graph shapes, longer names, larger networks and compiled web interactions. The web release was checked against its tested build; the installed extension and financial behavior are unchanged.
+
+### 中文
+
+网页关系图谱默认展示全部主体，优化头像、名字之间的间距和初始视野，让已展示网络更清楚；相同数据刷新时保持稳定排布，仍可切换「我的」。个人交易金额指标更名为 Capital Deployed，与 Capital Moved 配对。
+
+验证覆盖不同关系形态、长名字、更多主体和编译后网页交互；网页发布文件已与测试构建核对。已安装插件及资金流程保持原状。
+
 ## 2026-10-17 — Clearer web wallet and relationships / 更清晰的网页钱包与关系视图
 
 **Status: web release verified; extension package unchanged.**
