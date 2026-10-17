@@ -12,7 +12,7 @@ Updated 18 October 2026. This document separates implemented private functionali
 | X cashtag Moon entry, post statistics and profile modules | Implemented; full source private | Public Chrome extension entry and UI excerpts |
 | Native posting and combined native/X discovery feed | Implemented; full source private | Product overview and Discover workspace |
 | People / post discovery rankings and author post archives | Implemented; full source private | Feature summary and application |
-| Relationship-holder direct messages and groups | Implemented; full source private | Feature summary and application |
+| Relationship benefits: chats, groups and holder opportunities | Implemented; full source private | Feature summary and application |
 | Additional EVM chains | Activated for registered assets on BNB Chain, Base, Arbitrum, Optimism and Polygon; runtime/package checks verified; owner real-wallet acceptance pending | [Dated updates](../UPDATES.md) |
 | Network selection, test-token access, language and appearance settings | Implemented; full source private | Application settings and product explanation |
 

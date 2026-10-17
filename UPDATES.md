@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-18 — Relationship benefits and holder opportunities / 关系权益与持有人交易机会
+
+Relationship benefits now groups Chats and groups with Trading opportunities. Authors can share and withdraw opportunities for their Relation Token holders, while eligible holders can browse the private updates. Existing chat sessions and drafts are preserved when switching subpages.
+
+The web application and existing local extension have been updated after regression and release-resource checks. Verification covers author control, holder access, withdrawal, retry and route compatibility. Browser acceptance and store publication remain separate; full implementation stays private.
+
+### 中文
+
+「关系权益」整合「聊天和群组」与「交易机会」。主体可面向自己的关系代币持有人分享或撤回机会，符合资格的持有人可浏览这些内容；切换子页面保留原聊天会话和草稿。
+
+完成回归及发布资源核对后更新网页与原自用插件，检查覆盖作者权限、持有人访问、撤回、重试及旧链接兼容。浏览器验收与商店发布另行记录，完整实现继续私有。
+
 ## 2026-10-18 — Relation Token fee-share visibility / 关系代币手续费份额展示
 
 Held Relation Tokens now show the wallet's estimated share of the corresponding subject's fee income in lists and details. The view supports English and Chinese, follows confirmed holdings, and distinguishes unavailable data and versions that do not participate.
