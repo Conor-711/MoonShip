@@ -8,6 +8,16 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-19 — Ranked holder groups / 持仓排名群聊
+
+Group owners can choose a holding amount or top-holder access for a selected Relation Token. Linked wallets count together; holder seats and the owner's management seat are separate. Access follows current eligibility rather than joining order.
+
+Local admission, transfer-related revocation and private-message protection are verified. Hosted rollout, the existing extension update and user acceptance are recorded separately. Financial rules are unchanged.
+
+中文：群主可选择数量门槛，或向指定关系代币的持仓前列开放。关联钱包合并计算，持有人名额与群主管理席位分开；访问资格随持仓变化，不按入群先后占位。本地检查覆盖准入、转出后撤销和私信保护；云端、原插件更新与用户验收分别记录，金融规则不变。
+
+Status: Hosted release and existing extension update verified; user acceptance pending. 状态：云端及原插件更新已核对，用户验收待完成。
+
 ## 2026-10-19 — Clearer discovery vision and complete English controls
 
 The website documentation opens with a bilingual introduction and vision: capital influence, economic relationships, discovering people and ideas, and investing in people through eligible participation in actual attributed fees. The page separates the network’s ambition from the rules for existing participation.
