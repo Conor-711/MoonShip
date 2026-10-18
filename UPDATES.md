@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-18 — Consistent light page background / 统一白天模式外侧背景
+
+The web application's outer gutters now use the same light background as the main page. Loading and mounted appearances share the selected theme, removing the remaining warm-colored side bands.
+
+The fix follows theme regression, compiled interaction and deployed-resource checks. Browser visual acceptance remains separate; the installed extension is unchanged and full source stays private.
+
+### 中文
+
+网页最外侧两边留白与主页面统一使用相同的浅色背景，加载和进入应用后保持主题一致，去掉残留的偏暖色带。
+
+完成主题回归、编译交互与线上资源核对后发布；浏览器视觉验收另行进行，原插件不变，完整源码继续私有。
+
 ## 2026-10-18 — Clearer light appearance / 优化白天模式与图谱文字
 
 The web light theme uses a cleaner neutral palette with stronger text and control contrast. Relationship graph labels now remain readable in light appearance, with theme-appropriate label outlines, edges and selected states. Layout and existing interactions are preserved.
