@@ -8,6 +8,12 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-19 — Discover layout / 发现页排版
+
+Web: whole-page scrolling, restored reading positions and compact Feed layout. Regression and release checks passed; browser acceptance separate. Extension unchanged; source private.
+
+网页改为整页滚动，保留各页位置并精简信息流排版。回归与发布核对通过，浏览器另验；插件不变，源码私有。
+
 ## 2026-10-19 — Ranked holder groups / 持仓排名群聊
 
 Group owners can choose a holding amount or top-holder access for a selected Relation Token. Linked wallets count together; holder seats and the owner's management seat are separate. Access follows current eligibility rather than joining order.
