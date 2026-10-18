@@ -1,12 +1,24 @@
 # MoonShip development updates / 项目更新
 
-Updated 18 October 2026. These notes summarize user-facing progress. Core source,
+Updated 19 October 2026. These notes summarize user-facing progress. Core source,
 algorithms, parameters and operational details remain private. A development date
 is not an activation date. Retrospective entries below are based on the project's
 development and release records; they were first collected here on 17 October.
 
-更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
+更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
+
+## 2026-10-19 — Capital-driven discovery and post traders / 资本驱动发现与帖子交易者
+
+Post trading modules now reveal participating Subjects and their settled trading amounts. Feed defaults to Capital picks, combining settled capital, participation breadth and recency, with Latest available for new content. An inline explanation introduces capital as the discovery signal in English and Chinese.
+
+The web application and existing local extension have been updated after regression and release checks. Settlement evidence, participant grouping, pagination and mode isolation are verified; browser and real-wallet acceptance remain separate. Subjects are not proof of unique natural people. Full implementation, ranking formula and parameters stay private.
+
+### 中文
+
+帖子交易模块可展开查看参与交易的主体及其已结算交易额。信息流默认「资本推荐」，综合已结算资金、参与广度和时效，保留「最新」浏览新内容；页面提供中英文「以资本作为算法」说明。
+
+完成回归与发布核对后更新网页和原自用插件，检查覆盖成交证据、主体聚合、分页与网络隔离。浏览器及真实用户交易验收另行进行，主体去重不等于自然人去重；完整源码、排序公式和参数继续私有。
 
 ## 2026-10-18 — Consistent light page background / 统一白天模式外侧背景
 

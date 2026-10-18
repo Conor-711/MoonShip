@@ -1,6 +1,6 @@
 # Implementation status
 
-Updated 18 October 2026. This document separates implemented private functionality from source that is available in this public repository.
+Updated 19 October 2026. This document separates implemented private functionality from source that is available in this public repository.
 
 | Capability | Maintainer-recorded status | Public review surface |
 | --- | --- | --- |
@@ -10,7 +10,7 @@ Updated 18 October 2026. This document separates implemented private functionali
 | Public subject holdings | Implemented; web and local extension updated; full source private | Holdings view and [dated updates](../UPDATES.md) |
 | Capital metrics and personal economic graph | Implemented; full source private | Metric definitions, selected UI styles and application |
 | X cashtag Moon entry, post statistics and profile modules | Implemented; full source private | Public Chrome extension entry and UI excerpts |
-| Native posting and combined native/X discovery feed | Implemented; full source private | Product overview and Discover workspace |
+| Native posting, capital-driven native/X discovery and public post traders | Implemented; full source private | Product overview and Discover workspace |
 | People / post discovery rankings and author post archives | Implemented; full source private | Feature summary and application |
 | Relationship benefits: chats, groups and holder opportunities | Implemented; full source private | Feature summary and application |
 | Additional EVM chains | Activated for registered assets on BNB Chain, Base, Arbitrum, Optimism and Polygon; runtime/package checks verified; owner real-wallet acceptance pending | [Dated updates](../UPDATES.md) |
