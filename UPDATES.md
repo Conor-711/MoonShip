@@ -8,33 +8,29 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-19 — Capital following and Discover / 资本关注与发现
+
+Home uses Capital picks / Your capital following. Following reads public posts from settled capital relationships. Discover groups Rankings and Search. Scope, account changes and paging were checked; web resources verified after release. Browser acceptance separate; existing extension unchanged, full source private.
+
+首页改为「资本推荐／你的资本关注」，资本关注展示已结算关系主体的公开内容；发现页整合排行榜与搜索。范围、账号切换和分页经过检查，发布资源已核对；浏览器另验，原插件不变，完整源码私有。
+
 ## 2026-10-19 — Benefits communication UX / 权益沟通体验
 
 Benefits adds searchable DM/group lists, clear headers, dates and message follow. Opportunities improve publishing, audience/length feedback and withdrawal confirmation. Web/extension builds and released files checked; browser acceptance separate. Source private.
 
 权益页增加私聊／群聊筛选与搜索，优化会话头部、日期分组及新消息跟随。持有人交易机会完善发布表单、可见范围和字数提示，撤回前可确认。网页与原插件构建通过检查，发布资源已核对；浏览器另验，完整源码私有。
 
-## 2026-10-19 — Home, search and Profile / 首页、搜索与个人主页
+## 2026-10-19 — Web navigation and reading / 网页导航与阅读
 
-Home: Feed and rankings. Discover searches public people/posts with its loaded scope stated. Profile combines the capital overview and full Wallet. Benefits gets a short label, rights icon and one title. Checks passed; browser acceptance separate. Extension unchanged; source private.
+Home/Discover/Profile navigation was reorganized; Profile combines the capital overview and complete Wallet. Benefits uses a rights icon and one title. Web scrolling covers the whole page and restores reading positions. Checked releases; browser acceptance separate, implementation private.
 
-首页整合信息流和排行榜，发现页搜索人物及公开帖子并说明覆盖范围；个人主页合并资本概览与完整钱包。权益导航精简并更换图标，去掉重复标题，保留旧链接。回归与发布核对通过，浏览器另验；原插件不变，源码私有。
-
-## 2026-10-19 — Discover layout / 发现页排版
-
-Web: whole-page scrolling, restored reading positions and compact Feed layout. Regression and release checks passed; browser acceptance separate. Extension unchanged; source private.
-
-网页改为整页滚动，保留各页位置并精简信息流排版。回归与发布核对通过，浏览器另验；插件不变，源码私有。
+网页重整首页、发现和个人主页，个人主页整合资本概览与完整钱包；权益采用对应图标并去除重复标题。改为整页滚动并恢复阅读位置。发布经过核对，浏览器另验，实现私有。
 
 ## 2026-10-19 — Ranked holder groups / 持仓排名群聊
 
-Group owners can choose a holding amount or top-holder access for a selected Relation Token. Linked wallets count together; holder seats and the owner's management seat are separate. Access follows current eligibility rather than joining order.
+Groups support token-amount or top-holder access. Linked wallets count together; holder seats and owner management are separate, with access based on current eligibility. Admission, revocation and private-content checks passed; hosted and existing-extension releases verified. User acceptance separate; financial rules unchanged.
 
-Local admission, transfer-related revocation and private-message protection are verified. Hosted rollout, the existing extension update and user acceptance are recorded separately. Financial rules are unchanged.
-
-中文：群主可选择数量门槛，或向指定关系代币的持仓前列开放。关联钱包合并计算，持有人名额与群主管理席位分开；访问资格随持仓变化，不按入群先后占位。本地检查覆盖准入、转出后撤销和私信保护；云端、原插件更新与用户验收分别记录，金融规则不变。
-
-Status: Hosted release and existing extension update verified; user acceptance pending. 状态：云端及原插件更新已核对，用户验收待完成。
+群聊支持关系代币数量或持仓排名门槛；关联钱包合并，持有人名额与群主管理分开，资格随持仓变化。准入、撤销及私有内容检查通过，云端与原插件发布已核对；用户另验，金融规则不变。
 
 ## 2026-10-19 — Bilingual vision and English controls / 双语愿景与英文补全
 
