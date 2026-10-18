@@ -8,6 +8,12 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-19 — Benefits communication UX / 权益沟通体验
+
+Benefits adds searchable DM/group lists, clear headers, dates and message follow. Opportunities improve publishing, audience/length feedback and withdrawal confirmation. Web/extension builds and released files checked; browser acceptance separate. Source private.
+
+权益页增加私聊／群聊筛选与搜索，优化会话头部、日期分组及新消息跟随。持有人交易机会完善发布表单、可见范围和字数提示，撤回前可确认。网页与原插件构建通过检查，发布资源已核对；浏览器另验，完整源码私有。
+
 ## 2026-10-19 — Home, search and Profile / 首页、搜索与个人主页
 
 Home: Feed and rankings. Discover searches public people/posts with its loaded scope stated. Profile combines the capital overview and full Wallet. Benefits gets a short label, rights icon and one title. Checks passed; browser acceptance separate. Extension unchanged; source private.
@@ -30,17 +36,11 @@ Local admission, transfer-related revocation and private-message protection are 
 
 Status: Hosted release and existing extension update verified; user acceptance pending. 状态：云端及原插件更新已核对，用户验收待完成。
 
-## 2026-10-19 — Clearer discovery vision and complete English controls
+## 2026-10-19 — Bilingual vision and English controls / 双语愿景与英文补全
 
-The website documentation opens with a bilingual introduction and vision: capital influence, economic relationships, discovering people and ideas, and investing in people through eligible participation in actual attributed fees. The page separates the network’s ambition from the rules for existing participation.
+Documentation introduces capital influence, economic relationships and discovery, separating the network vision from existing token rights. Web swap/About labels are complete in English. Documentation and deployed resources were checked; financial rules unchanged.
 
-Missing English labels in the web app’s swap shortcut and About link are complete, with language-switching checks. Documentation order, search, links and bilingual display were verified; the website and web release were checked against their tested files. This update does not change fees, financial permissions or token rights.
-
-### 中文
-
-官网文档首篇新增中英文引言与愿景，围绕资本影响力、经济联系、发现人与观点，以及通过合格参与实际归因手续费来“投资一个人”；网络愿景与现行参与规则分开说明。
-
-网页应用补齐兑换快捷入口和关于链接的英文，核对双向语言切换。文档顺序、搜索、链接和双语展示已验证，官网及网页发布文件与测试构建核对；本轮不改变手续费、资金权限或代币权益。
+文档新增双语愿景，围绕资本影响力、经济关系与发现，区分愿景与现行代币权益。网页补齐兑换及关于入口的英文；文档和发布资源已核对，金融规则不变。
 
 ## 2026-10-19 — Capital-driven discovery / 资本驱动发现
 
