@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-18 — Clearer light appearance / 优化白天模式与图谱文字
+
+The web light theme uses a cleaner neutral palette with stronger text and control contrast. Relationship graph labels now remain readable in light appearance, with theme-appropriate label outlines, edges and selected states. Layout and existing interactions are preserved.
+
+The web release follows contrast regression, compiled interaction and deployed-resource checks. Browser visual acceptance remains separate; the installed extension package is unchanged. Full implementation stays private.
+
+### 中文
+
+网页白天模式采用更清爽的中性色，强化文字与控件对比度；修复关系图谱文字在浅色背景下发黑粘连的问题，标签描边、连线与选中态随主题适配。保留原布局和操作。
+
+完成对比度回归、编译交互和线上资源核对后更新网页；浏览器视觉验收另行进行，原插件包保持不变，完整源码继续私有。
+
 ## 2026-10-18 — Calmer page boundaries / 精简页面分隔线
 
 The web layout now removes redundant outer rules and repeated internal borders. Subtle main-column, tab and list separators remain; surfaces and spacing distinguish supporting sections. Existing appearance settings, controls and navigation are preserved.
