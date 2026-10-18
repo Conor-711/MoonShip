@@ -10,9 +10,9 @@ development and release records; they were first collected here on 17 October.
 
 ## 2026-10-19 — Capital following and X post links / 资本关注与推文链接
 
-Home uses Capital picks / Your capital following; Discover groups Rankings and Search. Web users can preview an X post link and Moon it. X posts enter public feeds after an attributed trade settles; Home explains eligibility. Source handling and released resources checked; browser acceptance separate. Extension unchanged, full source private.
+Home uses Capital picks / Your capital following; Discover groups Rankings and Search. Web users can preview an X post link and Moon it. X posts enter public feeds after an attributed trade settles; Home explains eligibility in a single guide, alongside a compact link action. Source handling and released resources checked; browser acceptance separate. Extension unchanged, full source private.
 
-首页采用「资本推荐／你的资本关注」，发现包含排行榜与搜索。网页支持预览X帖子链接后Moon；X帖子有归因交易完成结算才进入公开信息流，首页说明展示规则。来源处理与发布资源经过核对；浏览器另验，原插件不变，完整源码私有。
+首页采用「资本推荐／你的资本关注」，发现包含排行榜与搜索。网页支持预览X帖子链接后Moon；X帖子有归因交易完成结算才进入公开信息流，首页将链接操作收成一行，展示规则与算法说明合并。来源处理与发布资源经过核对；浏览器另验，原插件不变，完整源码私有。
 
 ## 2026-10-19 — Benefits communication UX / 权益沟通体验
 
