@@ -8,11 +8,11 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
-## 2026-10-19 — Capital following and Discover / 资本关注与发现
+## 2026-10-19 — Capital following and X post links / 资本关注与推文链接
 
-Home uses Capital picks / Your capital following. Following reads public posts from settled capital relationships. Discover groups Rankings and Search. Scope, account changes and paging were checked; web resources verified after release. Browser acceptance separate; existing extension unchanged, full source private.
+Home uses Capital picks / Your capital following; Discover groups Rankings and Search. Web users can preview an X post link and Moon it. X posts enter public feeds after an attributed trade settles; Home explains eligibility. Source handling and released resources checked; browser acceptance separate. Extension unchanged, full source private.
 
-首页改为「资本推荐／你的资本关注」，资本关注展示已结算关系主体的公开内容；发现页整合排行榜与搜索。范围、账号切换和分页经过检查，发布资源已核对；浏览器另验，原插件不变，完整源码私有。
+首页采用「资本推荐／你的资本关注」，发现包含排行榜与搜索。网页支持预览X帖子链接后Moon；X帖子有归因交易完成结算才进入公开信息流，首页说明展示规则。来源处理与发布资源经过核对；浏览器另验，原插件不变，完整源码私有。
 
 ## 2026-10-19 — Benefits communication UX / 权益沟通体验
 
