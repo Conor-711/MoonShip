@@ -8,6 +8,12 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-19 — Home, search and Profile / 首页、搜索与个人主页
+
+Home: Feed and rankings. Discover searches public people/posts with its loaded scope stated. Profile combines the capital overview and full Wallet. Benefits gets a short label, rights icon and one title. Checks passed; browser acceptance separate. Extension unchanged; source private.
+
+首页整合信息流和排行榜，发现页搜索人物及公开帖子并说明覆盖范围；个人主页合并资本概览与完整钱包。权益导航精简并更换图标，去掉重复标题，保留旧链接。回归与发布核对通过，浏览器另验；原插件不变，源码私有。
+
 ## 2026-10-19 — Discover layout / 发现页排版
 
 Web: whole-page scrolling, restored reading positions and compact Feed layout. Regression and release checks passed; browser acceptance separate. Extension unchanged; source private.
@@ -36,17 +42,11 @@ Missing English labels in the web app’s swap shortcut and About link are compl
 
 网页应用补齐兑换快捷入口和关于链接的英文，核对双向语言切换。文档顺序、搜索、链接和双语展示已验证，官网及网页发布文件与测试构建核对；本轮不改变手续费、资金权限或代币权益。
 
-## 2026-10-19 — Capital-driven discovery and post traders / 资本驱动发现与帖子交易者
+## 2026-10-19 — Capital-driven discovery / 资本驱动发现
 
-Post trading modules now reveal participating Subjects and their settled trading amounts. Feed defaults to Capital picks, combining settled capital, participation breadth and recency, with Latest available for new content. An inline explanation introduces capital as the discovery signal in English and Chinese.
+Post modules reveal participating Subjects and settled amounts. Capital picks combines settled capital, participation breadth and recency; Latest remains available. Web and existing extension releases passed regression checks; browser and wallet acceptance remain separate. Subjects do not prove unique people. Formula and parameters stay private.
 
-The web application and existing local extension have been updated after regression and release checks. Settlement evidence, participant grouping, pagination and mode isolation are verified; browser and real-wallet acceptance remain separate. Subjects are not proof of unique natural people. Full implementation, ranking formula and parameters stay private.
-
-### 中文
-
-帖子交易模块可展开查看参与交易的主体及其已结算交易额。信息流默认「资本推荐」，综合已结算资金、参与广度和时效，保留「最新」浏览新内容；页面提供中英文「以资本作为算法」说明。
-
-完成回归与发布核对后更新网页和原自用插件，检查覆盖成交证据、主体聚合、分页与网络隔离。浏览器及真实用户交易验收另行进行，主体去重不等于自然人去重；完整源码、排序公式和参数继续私有。
+帖子可查看参与主体及已结算交易额；资本推荐结合成交资金、参与广度与时效，保留最新入口。网页及原插件发布经过回归核对，浏览器与真实钱包另验；主体不等于独立自然人。公式及参数私有。
 
 ## 2026-10-18 — Consistent light page background / 统一白天模式外侧背景
 
