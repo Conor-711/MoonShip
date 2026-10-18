@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-19 — Clearer discovery vision and complete English controls
+
+The website documentation opens with a bilingual introduction and vision: capital influence, economic relationships, discovering people and ideas, and investing in people through eligible participation in actual attributed fees. The page separates the network’s ambition from the rules for existing participation.
+
+Missing English labels in the web app’s swap shortcut and About link are complete, with language-switching checks. Documentation order, search, links and bilingual display were verified; the website and web release were checked against their tested files. This update does not change fees, financial permissions or token rights.
+
+### 中文
+
+官网文档首篇新增中英文引言与愿景，围绕资本影响力、经济联系、发现人与观点，以及通过合格参与实际归因手续费来“投资一个人”；网络愿景与现行参与规则分开说明。
+
+网页应用补齐兑换快捷入口和关于链接的英文，核对双向语言切换。文档顺序、搜索、链接和双语展示已验证，官网及网页发布文件与测试构建核对；本轮不改变手续费、资金权限或代币权益。
+
 ## 2026-10-19 — Capital-driven discovery and post traders / 资本驱动发现与帖子交易者
 
 Post trading modules now reveal participating Subjects and their settled trading amounts. Feed defaults to Capital picks, combining settled capital, participation breadth and recency, with Latest available for new content. An inline explanation introduces capital as the discovery signal in English and Chinese.
