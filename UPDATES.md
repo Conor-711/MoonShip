@@ -8,6 +8,18 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 18 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-18 — Calmer page boundaries / 精简页面分隔线
+
+The web layout now removes redundant outer rules and repeated internal borders. Subtle main-column, tab and list separators remain; surfaces and spacing distinguish supporting sections. Existing appearance settings, controls and navigation are preserved.
+
+The web release follows regression and deployed-resource checks. Browser visual acceptance is separate; the installed extension package is unchanged. Full source remains private.
+
+### 中文
+
+网页移除最外侧多余竖线与重复的内部边框，仅保留较淡的主栏、Tab及列表分隔；辅助模块通过底色与间距区分。沿用原有主题、控件和导航。
+
+完成回归与线上资源核对后更新网页，浏览器视觉验收另行进行；原插件安装包保持不变，完整源码继续私有。
+
 ## 2026-10-18 — Compact social workspace / 紧凑的社交式布局
 
 The web application now uses a centered three-column layout with readable content width, tighter spacing and a public people sidebar. Existing profile, discovery and swap entries remain accessible, while narrower screens retain the mobile navigation. Language, appearance and page state are preserved.
