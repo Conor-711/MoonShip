@@ -1,11 +1,11 @@
 # MoonShip development updates / 项目更新
 
-Updated 19 October 2026. These notes summarize user-facing progress. Core source,
+Updated 20 October 2026. These notes summarize user-facing progress. Core source,
 algorithms, parameters and operational details remain private. A development date
 is not an activation date. Retrospective entries below are based on the project's
 development and release records; they were first collected here on 17 October.
 
-更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
+更新于 2026 年 10 月 20 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
 ## 2026-10-19 — Web presentation / 网页界面
@@ -20,11 +20,11 @@ Deployed and opened an initial set of ordinary and stock-token routes, with expl
 
 已部署并开放首批普通代币及股票代币路线，明确USDC付款、USDG中转及可能退回USDG。网页资源与原插件更新经过核对，原有网络保留，股票图标兼容明暗主题；自有分叉的交付／退款及最终部署核验通过。实际提供方执行与用户验收另行确认，完整源码私有。
 
-## 2026-10-19 — Capital following and X post links / 资本关注与推文链接
+## 2026-10-20 — Familiar people and capital discovery / 熟人发现与资本动态
 
-Home uses Capital picks / Your capital following; Discover groups Rankings and Search. Web users can preview an X post link and Moon it. X posts enter public feeds after an attributed trade settles; Home explains eligibility in a single guide, alongside a compact link action. Source handling and released resources checked; browser acceptance separate. Extension unchanged, full source private.
+Web onboarding matches public X following to existing subjects, including unclaimed profiles. Shows profile cards, supports skip and remembers completion. Provider read and regression checks passed; browser acceptance separate. Capital following and settled-post feeds retain their distinct meanings. Extension unchanged.
 
-首页采用「资本推荐／你的资本关注」，发现包含排行榜与搜索。网页支持预览X帖子链接后Moon；X帖子有归因交易完成结算才进入公开信息流，首页将链接操作收成一行，展示规则与算法说明合并。来源处理与发布资源经过核对；浏览器另验，原插件不变，完整源码私有。
+网页登录后匹配公开X关注与已创建主体，包括未认领主体，展示主页卡片，可跳过并记住完成状态。真实接口读取及回归检查通过，浏览器另验；资本关注和结算帖子信息流仍分别处理，原插件不变。
 
 ## 2026-10-19 — Benefits communication UX / 权益沟通体验
 

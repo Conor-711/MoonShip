@@ -1,10 +1,10 @@
 # Implementation status
 
-Updated 19 October 2026. This document separates implemented private functionality from source that is available in this public repository.
+Updated 20 October 2026. This document separates implemented private functionality from source that is available in this public repository.
 
 | Capability | Maintainer-recorded status | Public review surface |
 | --- | --- | --- |
-| Stable subjects, wallet/X identity and subject profiles | Implemented; full source private | Product explanation and live application |
+| Stable subjects, wallet/X identity and subject profiles | Implemented; web X-following onboarding adds profile discovery; full source private | Product explanation and live application |
 | Source-selected asset purchases and settlement | Implemented; full source private | User journey and configured live product |
 | Subject–asset Relation Tokens and received-fee participation | Implemented; full source private | Product-level explanation and application views |
 | Public subject holdings | Implemented; web and local extension updated; full source private | Holdings view and [dated updates](../UPDATES.md) |
