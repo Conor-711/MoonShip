@@ -6,9 +6,9 @@ Updated 20 October 2026. Source stays private. Development, deployment and accep
 
 ## 2026-10-20 — App and trade ideas / 应用与交易观点
 
-Status: Implemented privately. Asset-bound views, chart plans, trade commentary and author updates join recent data-read, branding, a cleaner Home layout and wallet improvements. Checks passed; rollout recorded separately; browser and real-wallet acceptance pending.
+Status: Privately implemented: simpler asset-bound composer, optional visual plans, compact charts and expandable details. Earlier trade commentary, author updates and app improvements retained. Checks passed; rollout and user acceptance separate.
 
-状态：私有实现包含标的观点、图表计划、成交解读和作者更新，以及读取、品牌、首页导航／发布／动态排版、收款与卖出优化。检查通过，上线另验；浏览器与实盘待验，核心源码私有。
+状态：私有实现简化标的观点发布，提供可选价位计划、紧凑行情图与折叠详情；兼容旧成交解读、作者更新及近期应用改进。检查通过，上线与用户验收另验，核心源码私有。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
