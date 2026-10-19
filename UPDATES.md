@@ -4,17 +4,11 @@ Updated 20 October 2026. Source stays private. Development, deployment and accep
 
 更新于2026年10月20日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
-## 2026-10-20 — Faster data views / 读取优化
+## 2026-10-20 — App and trade ideas / 应用与交易观点
 
-Views reuse recent data and refresh in the background. Checks passed; rollout and browser review separate.
+Status: Implemented privately. Asset-bound views, chart plans, trade commentary and author updates join recent data-read, branding, Home and wallet improvements. Checks and rollout recorded separately; browser and real-wallet acceptance pending.
 
-资料、持仓与活动复用近期结果并后台更新。检查通过，上线及浏览器另验。
-
-## 2026-10-20 — App / 应用
-
-Receive; new branding; claim checks; scoped Home; compact extension; sell to Monad USDC. Checks passed; real-wallet review pending.
-
-统一收款与标识、认领勾选、范围首页、精简插件；新增卖出回 Monad USDC。检查通过，实盘另验。
+状态：私有实现包含标的观点、图表计划、成交解读和作者更新，以及读取、品牌、首页、收款与卖出优化。检查、上线分别记录；浏览器与实盘待验，核心源码私有。
 
 ## 2026-10-19 — Web presentation / 网页界面
 

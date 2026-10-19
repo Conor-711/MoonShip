@@ -11,6 +11,7 @@ Updated 20 October 2026. This document separates implemented private functionali
 | Capital metrics and personal economic graph | Implemented; full source private | Metric definitions, selected UI styles and application |
 | X cashtag Moon entry, post statistics and profile modules | Implemented; full source private | Public Chrome extension entry and UI excerpts |
 | Native posting, capital-driven native/X discovery and public post traders | Implemented; full source private | Product overview and Discover workspace |
+| Asset-native trade ideas, charts and author updates | Implemented; validation and hosted rollout recorded separately; browser acceptance pending; full source private | Application and [dated updates](../UPDATES.md) |
 | People / post discovery rankings and author post archives | Implemented; full source private | Feature summary and application |
 | Relationship benefits: chats, amount/rank-gated groups and holder opportunities | Implemented; single-column messenger UX checked; full source private | Feature summary and application |
 | Additional EVM chains | Activated for registered assets on BNB Chain, Base, Arbitrum, Optimism and Polygon; runtime/package checks verified; owner real-wallet acceptance pending | [Dated updates](../UPDATES.md) |
