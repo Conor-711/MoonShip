@@ -44,11 +44,11 @@ Groups support token-amount or top-holder access. Linked wallets count together;
 
 群聊支持关系代币数量或持仓排名门槛；关联钱包合并，持有人名额与群主管理分开，资格随持仓变化。准入、撤销及私有内容检查通过，云端与原插件发布已核对；用户另验，金融规则不变。
 
-## 2026-10-19 — Bilingual vision and controls / 双语愿景与界面
+## 2026-10-19 — Vision and landing / 愿景与官网
 
-Frames social trading as an open, composable, programmable onchain network of people, relationships and ideas, grounded in real trades. Separates the vision from current token rights; completes English controls. Documentation and release checks recorded.
+Bilingual landing separates protocol and app, illustrating how real trades form relationships. Highlights people, ideas and capital connected onchain, with app and extension access. Vision and current rights remain distinct. Checks passed; visual review separate.
 
-愿景聚焦链上社交化交易，让人、关系与观点公开、可组合、可编程；激励基于真实交易，愿景与现有代币权益分开。补齐英文入口，文档与发布核验分别记录。
+双语官网分开介绍协议与应用，以真实交易形成关系为主线，突出人、观点与资本的链上连接，保留应用及插件入口。愿景区别于现有权益。检查通过，视觉体验另验。
 
 ## 2026-10-19 — Capital-driven discovery / 资本驱动发现
 
