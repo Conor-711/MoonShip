@@ -16,9 +16,9 @@ Trading is primary: Swap opens the existing flow; posts express ideas. Unified r
 
 ## 2026-10-19 — Robinhood Chain trading / Robinhood Chain 交易
 
-Deployed and opened an initial set of ordinary and stock-token routes, with explicit USDC payment, USDG routing and possible USDG recovery. Web resources and the existing extension update were verified; earlier networks retained. Owned-fork delivery/recovery and finalized deployment checks passed. Actual provider execution and user acceptance remain separate. Complete source stays private.
+Deployed and opened an initial set of ordinary and stock-token routes, with explicit USDC payment, USDG routing and possible USDG recovery. Web resources and the existing extension update were verified; earlier networks retained. Stock views show company/fund logos in both themes. Deployment and owned-fork delivery/recovery checks passed. Actual provider execution and user acceptance remain separate.
 
-已部署并开放首批普通代币及股票代币路线，明确USDC付款、USDG中转及可能退回USDG。网页资源与原插件更新经过核对，原有网络保留；自有分叉的交付／退款及最终部署核验通过。实际提供方执行与用户验收另行确认，完整源码私有。
+已部署并开放首批普通代币及股票代币路线，明确USDC付款、USDG中转及可能退回USDG。网页资源与原插件更新经过核对，原有网络保留，股票图标兼容明暗主题；自有分叉的交付／退款及最终部署核验通过。实际提供方执行与用户验收另行确认，完整源码私有。
 
 ## 2026-10-19 — Capital following and X post links / 资本关注与推文链接
 
