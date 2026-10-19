@@ -10,9 +10,9 @@ development and release records; they were first collected here on 17 October.
 
 ## 2026-10-20 — App / 应用
 
-Receive replaces Fund; themed MoonShip claim marks; Home scopes wrap posts/activity. Checks passed; browser review separate.
+Receive only; themed claim marks; web Home scopes; extension reduced to Home/Wallet. Checks passed; browser review separate.
 
-统一收款、明暗主题认领标记；首页分范围切换帖子／经济动态。检查通过，浏览器另验。
+统一收款及主题认领标记；网页首页分范围；插件仅首页／钱包，去掉帖子及图谱。检查通过，浏览器另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
