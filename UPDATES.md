@@ -14,11 +14,11 @@ Trading is primary: Swap opens the existing flow; posts express ideas. Unified r
 
 以交易为主操作，兑换进入原有流程，发帖仅承载观点。统一网页布局及键盘导航，线上资源已核对；浏览器另验，插件不变。
 
-## 2026-10-19 — Robinhood Chain preparation / Robinhood Chain 接入准备
+## 2026-10-19 — Robinhood Chain trading / Robinhood Chain 交易
 
-Prepared ordinary- and stock-token market support with explicit payment, routing and recovery currencies. Local validation and read-only liquidity checks completed. New contracts are not deployed and trading remains inactive pending deployment funding, verification and activation. Existing live routes remain configured. Full implementation stays private.
+Deployed and opened an initial set of ordinary and stock-token routes, with explicit USDC payment, USDG routing and possible USDG recovery. Web resources and the existing extension update were verified; earlier networks retained. Owned-fork delivery/recovery and finalized deployment checks passed. Actual provider execution and user acceptance remain separate. Complete source stays private.
 
-完成普通代币及股票代币市场接入准备，明确付款、中转与退款币种；通过本地验证与只读流动性检查。新合约尚未部署，需补充部署手续费并完成核验与开放，当前不能交易；原有交易网络继续保留。完整实现继续私有。
+已部署并开放首批普通代币及股票代币路线，明确USDC付款、USDG中转及可能退回USDG。网页资源与原插件更新经过核对，原有网络保留；自有分叉的交付／退款及最终部署核验通过。实际提供方执行与用户验收另行确认，完整源码私有。
 
 ## 2026-10-19 — Capital following and X post links / 资本关注与推文链接
 
