@@ -8,6 +8,12 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-19 — Robinhood Chain preparation / Robinhood Chain 接入准备
+
+Prepared ordinary- and stock-token market support with explicit payment, routing and recovery currencies. Local validation and read-only liquidity checks completed. New contracts are not deployed and trading remains inactive pending deployment funding, verification and activation. Existing live routes remain configured. Full implementation stays private.
+
+完成普通代币及股票代币市场接入准备，明确付款、中转与退款币种；通过本地验证与只读流动性检查。新合约尚未部署，需补充部署手续费并完成核验与开放，当前不能交易；原有交易网络继续保留。完整实现继续私有。
+
 ## 2026-10-19 — Capital following and X post links / 资本关注与推文链接
 
 Home uses Capital picks / Your capital following; Discover groups Rankings and Search. Web users can preview an X post link and Moon it. X posts enter public feeds after an attributed trade settles; Home explains eligibility in a single guide, alongside a compact link action. Source handling and released resources checked; browser acceptance separate. Extension unchanged, full source private.
@@ -44,29 +50,11 @@ Post modules reveal participating Subjects and settled amounts. Capital picks co
 
 帖子可查看参与主体及已结算交易额；资本推荐结合成交资金、参与广度与时效，保留最新入口。网页及原插件发布经过回归核对，浏览器与真实钱包另验；主体不等于独立自然人。公式及参数私有。
 
-## 2026-10-18 — Consistent light page background / 统一白天模式外侧背景
+## 2026-10-18 — Light appearance and graph readability / 白天模式与图谱可读性
 
-The web application's outer gutters now use the same light background as the main page. Loading and mounted appearances share the selected theme, removing the remaining warm-colored side bands.
+The light theme improves neutral backgrounds, text/control contrast and graph labels. Outer gutters match the page. Regression, compiled interactions and deployed resources checked; browser acceptance separate, installed extension unchanged, full source private.
 
-The fix follows theme regression, compiled interaction and deployed-resource checks. Browser visual acceptance remains separate; the installed extension is unchanged and full source stays private.
-
-### 中文
-
-网页最外侧两边留白与主页面统一使用相同的浅色背景，加载和进入应用后保持主题一致，去掉残留的偏暖色带。
-
-完成主题回归、编译交互与线上资源核对后发布；浏览器视觉验收另行进行，原插件不变，完整源码继续私有。
-
-## 2026-10-18 — Clearer light appearance / 优化白天模式与图谱文字
-
-The web light theme uses a cleaner neutral palette with stronger text and control contrast. Relationship graph labels now remain readable in light appearance, with theme-appropriate label outlines, edges and selected states. Layout and existing interactions are preserved.
-
-The web release follows contrast regression, compiled interaction and deployed-resource checks. Browser visual acceptance remains separate; the installed extension package is unchanged. Full implementation stays private.
-
-### 中文
-
-网页白天模式采用更清爽的中性色，强化文字与控件对比度；修复关系图谱文字在浅色背景下发黑粘连的问题，标签描边、连线与选中态随主题适配。保留原布局和操作。
-
-完成对比度回归、编译交互和线上资源核对后更新网页；浏览器视觉验收另行进行，原插件包保持不变，完整源码继续私有。
+白天模式优化中性底色、文字与控件对比度，修复图谱标签，外侧留白与主页面统一。回归、编译交互与发布资源经过核对；浏览器另验，原插件不变，完整源码私有。
 
 ## 2026-10-18 — Calmer page boundaries / 精简页面分隔线
 
