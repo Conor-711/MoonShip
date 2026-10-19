@@ -10,9 +10,9 @@ development and release records; they were first collected here on 17 October.
 
 ## 2026-10-20 — App / 应用
 
-Receive only; themed claim marks; web Home scopes; extension reduced to Home/Wallet. Checks passed; browser review separate.
+Receive only; new web branding; claim checks restored; scoped web Home; extension Home/Wallet. Checked; browser review separate.
 
-统一收款及主题认领标记；网页首页分范围；插件仅首页／钱包，去掉帖子及图谱。检查通过，浏览器另验。
+统一收款、网页新标识、恢复认领勾选；首页分范围；插件仅首页／钱包。检查通过，浏览器另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
