@@ -8,11 +8,11 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 20 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
-## 2026-10-20 — Receive / 收款
+## 2026-10-20 — UI polish / 界面细节
 
-Status: Checked; Receive replaces Fund.
+Receive replaces Fund; claimed profiles get blue avatar badges. Web/plugin checks passed; browser acceptance separate.
 
-状态：检查通过，收款取代入金。
+收款取代入金；已认领主体显示头像蓝标。网页／插件检查通过，浏览器另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
@@ -28,9 +28,9 @@ Deployed and opened an initial set of ordinary and stock-token routes, with expl
 
 ## 2026-10-20 — Familiar people and capital discovery / 熟人发现与资本动态
 
-Web onboarding matches public X following to existing subjects, including unclaimed profiles. Shows profile cards, supports skip and remembers completion. Provider read and regression checks passed; browser acceptance separate. Capital following and settled-post feeds retain their distinct meanings. Extension unchanged.
+Web onboarding matches public X following to existing subjects, including unclaimed profiles, with skip and remembered completion. Provider and regression checks passed; browser acceptance separate. Capital following remains distinct. Extension unchanged.
 
-网页登录后匹配公开X关注与已创建主体，包括未认领主体，展示主页卡片，可跳过并记住完成状态。真实接口读取及回归检查通过，浏览器另验；资本关注和结算帖子信息流仍分别处理，原插件不变。
+网页匹配公开X关注与已有主体，包括未认领者；可跳过并记住完成状态。接口及回归检查通过，浏览器另验；资本关注仍单独处理，插件不变。
 
 ## 2026-10-19 — Benefits communication UX / 权益沟通体验
 
