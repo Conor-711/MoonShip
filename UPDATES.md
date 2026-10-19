@@ -8,11 +8,11 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 20 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
-## 2026-10-20 — UI polish / 界面细节
+## 2026-10-20 — App / 应用
 
-Receive replaces Fund; claimed profiles get blue avatar badges. Web/plugin checks passed; browser acceptance separate.
+Receive replaces Fund; claimed-avatar badges; Home switches posts/activity. Checks passed; browser review separate.
 
-收款取代入金；已认领主体显示头像蓝标。网页／插件检查通过，浏览器另验。
+统一收款、认领头像蓝标；首页可切换帖子／经济动态。检查通过，浏览器另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
