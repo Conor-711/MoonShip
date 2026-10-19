@@ -1,12 +1,14 @@
 # MoonShip development updates / 项目更新
 
-Updated 20 October 2026. These notes summarize user-facing progress. Core source,
-algorithms, parameters and operational details remain private. A development date
-is not an activation date. Retrospective entries below are based on the project's
-development and release records; they were first collected here on 17 October.
+Updated 20 October 2026. Source stays private. Development, deployment and acceptance are separate. Historical entries collected 17 October.
 
-更新于 2026 年 10 月 20 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
-开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
+更新于2026年10月20日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
+
+## 2026-10-20 — Faster data views / 读取优化
+
+Views reuse recent data and refresh in the background. Checks passed; rollout and browser review separate.
+
+资料、持仓与活动复用近期结果并后台更新。检查通过，上线及浏览器另验。
 
 ## 2026-10-20 — App / 应用
 
