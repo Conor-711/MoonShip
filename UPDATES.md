@@ -4,11 +4,11 @@ Updated 20 October 2026. Source stays private. Development, deployment and accep
 
 更新于2026年10月20日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
-## 2026-10-20 — App and trade ideas / 应用与交易观点
+## 2026-10-20 — App updates / 应用更新
 
-Status: Privately implemented: simpler asset-bound composer, optional visual plans, compact charts and expandable details. Earlier trade commentary, author updates and app improvements retained. Checks passed; rollout and user acceptance separate.
+Status: Privately implemented: simpler trade ideas and plans; branded web selectors with search and keyboard support. Prior app features retained. Checks passed; deployment and user acceptance separate.
 
-状态：私有实现简化标的观点发布，提供可选价位计划、紧凑行情图与折叠详情；兼容旧成交解读、作者更新及近期应用改进。检查通过，上线与用户验收另验，核心源码私有。
+状态：私有实现简化观点与价位计划、自绘选择列表及链／资产图标，支持搜索和键盘；保留近期应用能力。检查通过，部署与用户验收另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
