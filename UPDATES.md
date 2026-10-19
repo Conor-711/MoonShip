@@ -8,6 +8,12 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 19 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-19 — Web presentation / 网页界面
+
+Unified navigation, timeline typography and workspace layouts, with compose and keyboard shortcuts. Released assets checked; browser acceptance pending. Extension unchanged.
+
+统一网页导航、信息流和各页布局，增加发帖及键盘入口。线上资源已核对，浏览器另验；插件不变。
+
 ## 2026-10-19 — Robinhood Chain preparation / Robinhood Chain 接入准备
 
 Prepared ordinary- and stock-token market support with explicit payment, routing and recovery currencies. Local validation and read-only liquidity checks completed. New contracts are not deployed and trading remains inactive pending deployment funding, verification and activation. Existing live routes remain configured. Full implementation stays private.
