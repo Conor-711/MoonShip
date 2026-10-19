@@ -28,9 +28,9 @@ Home uses Capital picks / Your capital following; Discover groups Rankings and S
 
 ## 2026-10-19 — Benefits communication UX / 权益沟通体验
 
-Benefits adds searchable DM/group lists, clear headers, dates and message follow. Opportunities improve publishing, audience/length feedback and withdrawal confirmation. Web/extension builds and released files checked; browser acceptance separate. Source private.
+Chats add adaptive panes, drafts, pinning, loaded-message search and quick composing. Holder access and safe retries retained. Opportunities improve publishing and withdrawal. Web/extension checks and releases verified; browser acceptance separate. Source private.
 
-权益页增加私聊／群聊筛选与搜索，优化会话头部、日期分组及新消息跟随。持有人交易机会完善发布表单、可见范围和字数提示，撤回前可确认。网页与原插件构建通过检查，发布资源已核对；浏览器另验，完整源码私有。
+私聊／群聊增加自适应双栏、独立草稿、置顶、已加载消息搜索和快捷输入，沿用持有人准入及安全重试。交易机会完善发布与撤回。网页及原插件检查和发布资源已核对；浏览器另验，实现私有。
 
 ## 2026-10-19 — Web navigation and reading / 网页导航与阅读
 
