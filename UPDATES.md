@@ -10,9 +10,9 @@ development and release records; they were first collected here on 17 October.
 
 ## 2026-10-19 — Web presentation / 网页界面
 
-Unified navigation, timeline typography and workspace layouts, with compose and keyboard shortcuts. Released assets checked; browser acceptance pending. Extension unchanged.
+Trading is primary: Swap opens the existing flow; posts express ideas. Unified responsive layouts and keyboard access. Released assets checked; browser review pending. Extension unchanged.
 
-统一网页导航、信息流和各页布局，增加发帖及键盘入口。线上资源已核对，浏览器另验；插件不变。
+以交易为主操作，兑换进入原有流程，发帖仅承载观点。统一网页布局及键盘导航，线上资源已核对；浏览器另验，插件不变。
 
 ## 2026-10-19 — Robinhood Chain preparation / Robinhood Chain 接入准备
 
