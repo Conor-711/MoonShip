@@ -10,9 +10,9 @@ development and release records; they were first collected here on 17 October.
 
 ## 2026-10-20 — App / 应用
 
-Receive replaces Fund; claimed-avatar badges; Home switches posts/activity. Checks passed; browser review separate.
+Receive replaces Fund; claimed-avatar badges; Home scopes wrap posts/activity. Checks passed; browser review separate.
 
-统一收款、认领头像蓝标；首页可切换帖子／经济动态。检查通过，浏览器另验。
+统一收款、认领头像蓝标；首页分范围切换帖子／经济动态。检查通过，浏览器另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
