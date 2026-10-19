@@ -12,9 +12,9 @@ Views reuse recent data and refresh in the background. Checks passed; rollout an
 
 ## 2026-10-20 — App / 应用
 
-Receive only; new web branding; claim checks restored; scoped web Home; extension Home/Wallet. Checked; browser review separate.
+Receive; new branding; claim checks; scoped Home; compact extension; sell to Monad USDC. Checks passed; real-wallet review pending.
 
-统一收款、网页新标识、恢复认领勾选；首页分范围；插件仅首页／钱包。检查通过，浏览器另验。
+统一收款与标识、认领勾选、范围首页、精简插件；新增卖出回 Monad USDC。检查通过，实盘另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
