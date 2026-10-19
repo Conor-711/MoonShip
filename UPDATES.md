@@ -8,6 +8,12 @@ development and release records; they were first collected here on 17 October.
 更新于 2026 年 10 月 20 日。本页记录用户可感知的进展；核心代码、算法、参数与运行细节继续私有。
 开发完成与实际开放分别记录。以下历史条目依据项目开发及发布记录，于 10 月 17 日首次汇总。
 
+## 2026-10-20 — Receive / 收款
+
+Status: Checked; Receive replaces Fund.
+
+状态：检查通过，收款取代入金。
+
 ## 2026-10-19 — Web presentation / 网页界面
 
 Trading is primary: Swap opens the existing flow; posts express ideas. Unified responsive layouts and keyboard access. Released assets checked; browser review pending. Extension unchanged.
