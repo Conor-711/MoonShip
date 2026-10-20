@@ -6,9 +6,9 @@ Updated 20 October 2026. Source stays private. Development, deployment and accep
 
 ## 2026-10-20 — App updates / 应用更新
 
-Status: Private implementation includes simpler trade ideas, branded selectors and an Exclusive opportunities inbox for eligible holders, with publishing managed separately. Plugin store has a preview page. Earlier features retained. Checks passed; deployment and acceptance separate.
+Status: App updates include simpler ideas, an eligible-holder opportunity inbox and a plugin-store preview. Extension adds branded form lists; public display refresh handles temporary read failures. Existing features retained. Checks passed; rollout and acceptance separate.
 
-状态：私有实现包含简化交易观点、自绘选择器，以及持有人收到的独家机会列表和单独的发布管理。新增插件商店暂定页。保留原有功能；检查通过，上线与验收另验。
+状态：应用更新涵盖简化观点、持有人独家机会收件列表及插件商店暂定页。插件加入自绘图标列表，公开数据显示刷新兼容临时读取故障。保留原有功能；检查通过，上线与验收另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
