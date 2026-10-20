@@ -6,9 +6,9 @@ Updated 20 October 2026. Source stays private. Development, deployment and accep
 
 ## 2026-10-20 — App updates / 应用更新
 
-Status: App updates include simpler ideas, an eligible-holder opportunity inbox and a plugin-store preview. Extension adds branded form lists; public display refresh handles temporary read failures. Existing features retained. Checks passed; rollout and acceptance separate.
+Status: App updates include simpler ideas, an eligible-holder opportunity inbox and a plugin-store preview. Extension adds branded form lists and simpler controls; public profile reads continue while wallet sessions restore. Existing features retained. Checks passed; rollout and acceptance separate.
 
-状态：应用更新涵盖简化观点、持有人独家机会收件列表及插件商店暂定页。插件加入自绘图标列表，公开数据显示刷新兼容临时读取故障。保留原有功能；检查通过，上线与验收另验。
+状态：应用更新涵盖简化观点、持有人独家机会收件列表及插件商店暂定页。插件加入自绘图标列表并精简界面；钱包恢复期间仍可刷新公开资料。保留原有功能；检查通过，上线与验收另验。
 
 ## 2026-10-19 — Web presentation / 网页界面
 
