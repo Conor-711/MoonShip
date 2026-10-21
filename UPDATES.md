@@ -1,8 +1,14 @@
 # MoonShip development updates / 项目更新
 
-Updated 20 October 2026. Source stays private. Development, deployment and acceptance are separate. Historical entries collected 17 October.
+22 October 2026. Development, deployment and acceptance are separate.
 
-更新于2026年10月20日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
+更新于2026年10月22日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
+
+## 2026-10-22 iOS
+
+Status: Mobile UI updated; source private. No deployment.
+
+状态：移动界面更新，源码私有；未部署。
 
 ## 2026-10-20 — App updates / 应用更新
 
