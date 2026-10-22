@@ -4,6 +4,16 @@
 
 更新于2026年10月23日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
+## 2026-10-23 Capital discovery repair / 资金推荐修复
+
+Status: The corrective backend release is live and public reads now return historically traded views. Focused checks passed; mobile user acceptance remains separate. Private implementation only.
+
+状态：后端修复已上线，公开接口已恢复返回有历史成交的观点；针对性检查通过，手机端用户验收另行确认，完整实现保持私有。
+
+Retain access to historically traded public views when recent recommendations are empty, with clear historical labels and unchanged recorded trade amounts and times. This maintenance patch does not change trading fees or deploy new contracts.
+
+近期推荐为空时保留有历史成交的公开观点，并明确标识历史内容；记录中的成交金额和时间保持不变。本次维护不改变交易收费，也不部署新合约。
+
 ## 2026-10-23 Web and iOS together / 网页与 iOS 并行
 
 Status: Web restoration implemented and the first hosted installation issue repaired. Clean installation, type checking and application build passed in an independent checkout. Hosted rollout and user acceptance remain separate. Private source only.
