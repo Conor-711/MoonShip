@@ -1,9 +1,10 @@
 # Implementation status
 
-Updated 23 October 2026. This document separates implemented private functionality from source that is available in this public repository. Current client distribution is native iOS development; standalone web and extension targets are retired. Historical UI excerpts are not a deployable current client.
+Updated 23 October 2026. This document separates implemented private functionality from source that is available in this public repository. Client distribution includes native iOS development and the restored web application; extension targets remain retired. Historical UI excerpts are not a deployable current client.
 
 | Capability | Maintainer-recorded status | Public review surface |
 | --- | --- | --- |
+| Web application | Restored to run alongside iOS using the current client SDK; focused checks passed, hosted rollout and user acceptance separate; private source | [Dated updates](../UPDATES.md) |
 | iOS protocol client | React Native interface with native authentication, wallet confirmation and recovery; legacy UI cleanup and profile/following improvements implemented; compatible signed development build installed; source private. User acceptance and App Store distribution remain separate | [Dated updates](../UPDATES.md) |
 | Native perpetual trading | Implemented privately; market selection and focused checks passed. Independent fees deployed with hosted configuration verified; explicit settlement and refunds supported. Updated signed development build installed; user acceptance and perpetual relation issuance remain separate | [Dated updates](../UPDATES.md) |
 | Stable subjects, wallet/X identity and subject profiles | Implemented; X-following discovery and claimed-avatar badges checked; full source private | Product explanation and live application |

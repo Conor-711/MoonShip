@@ -4,6 +4,16 @@
 
 更新于2026年10月23日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
+## 2026-10-23 Web and iOS together / 网页与 iOS 并行
+
+Status: Web restoration implemented and focused checks passed; hosted rollout and user acceptance verified separately. Private source only.
+
+状态：网页恢复已实现并通过重点检查；云端上线与用户验收分别核对，完整源码私有。
+
+Restore browser access alongside the native iOS client, retaining current protocol configuration, historical participation and income. Existing mobile development continues independently. This restores the web application's prior spot and social functions; it does not claim native perpetual-feature parity or a new extension release.
+
+恢复网页与原生 iOS 并行使用，沿用当前协议配置、历史参与记录和收入；移动端继续独立开发。本轮恢复网页既有现货与社交功能，不宣称已移植原生永续界面或发布新版插件。
+
 ## 2026-10-23 Mobile perpetual trading
 
 Status: Private implementation and focused checks completed. A separate fee component is deployed and hosted configuration is verified. The updated signed iOS development build is installed; user acceptance remains separate.

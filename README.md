@@ -4,11 +4,11 @@
 
 **An open onchain network of capital influence and economic relationships, and a platform for discovering people and information through capital.**
 
-[中文说明](README.zh-CN.md) · [Development updates](UPDATES.md)
+[Web app](https://app.moonship.online/app/) · [中文说明](README.zh-CN.md) · [Development updates](UPDATES.md)
 
-Current client: native iOS in development distribution. The protocol and hosted
-services are deployed; the retired standalone web application and extension are
-not current product entry points. App Store release and user acceptance are separate.
+Clients: native iOS in development distribution and a restored browser application.
+The web restoration is checked and its rollout is recorded separately; the retired
+extension is not a new release. App Store release and user acceptance are separate.
 
 > **Public repository scope — 17 October 2026**
 >
@@ -45,7 +45,8 @@ Posts are part of their author's economic relationships. Starting from a post or
 | --- | --- | --- |
 | Protocol | Subject identities, attributed settlement, relationship records, Relation Tokens and received-fee accounting | Summary only; core implementation private |
 | iOS client | Native profiles, feeds, holdings, wallet and income views with protocol integration; compatible development build installed | Summary only; client source private |
-| Historical web / X extension | Retired standalone targets; selected presentation excerpts retained for context | Selected historical visual source only |
+| Web application | Restored to run alongside iOS; current configuration and shared client SDK; rollout and user acceptance separate | Summary only; full source private |
+| Historical X extension | Retired standalone targets; selected presentation excerpts retained for context | Selected historical visual source only |
 | Discover | Capital-driven native/settled-X feed, public post traders, people / post rankings and author archives | Summary only; application and indexing implementation private |
 | Relationship benefits | Direct messages, amount- or rank-gated holder groups and holder-only opportunity sharing | Summary only; access and service implementation private |
 | Environments | Configured Monad / Ethereum paths, additional EVM routes for registered assets, and separate testing environments | Runtime setup and operations private |
