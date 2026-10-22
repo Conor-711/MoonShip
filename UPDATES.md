@@ -4,6 +4,16 @@
 
 更新于2026年10月23日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
+## 2026-10-23 Web market charts / 网页行情图
+
+Status: Repair implemented; focused tests, application build and a real public-data read passed. Hosted rollout and user acceptance remain separate. Private source only.
+
+状态：行情修复已实现，重点测试、网页构建与真实公开行情读取通过；云端上线与用户验收另行确认，完整源码私有。
+
+Add public market-data fallback when the hosted data source is temporarily limited, with shared requests and caching. Charts retain exact asset matching and historical cutoffs. Executable trading quotes remain independent.
+
+云端行情源暂时受限时，网页可降级读取公开行情并复用请求和缓存；保留精确资产匹配及历史截止时间。可执行交易报价继续独立。
+
 ## 2026-10-23 Capital discovery repair / 资金推荐修复
 
 Status: The corrective backend release is live and public reads now return historically traded views. Focused checks passed; mobile user acceptance remains separate. Private implementation only.
