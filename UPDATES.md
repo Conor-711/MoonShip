@@ -6,9 +6,9 @@
 
 ## 2026-10-23 Web and iOS together / 网页与 iOS 并行
 
-Status: Web restoration implemented and focused checks passed; hosted rollout and user acceptance verified separately. Private source only.
+Status: Web restoration implemented and the first hosted installation issue repaired. Clean installation, type checking and application build passed in an independent checkout. Hosted rollout and user acceptance remain separate. Private source only.
 
-状态：网页恢复已实现并通过重点检查；云端上线与用户验收分别核对，完整源码私有。
+状态：网页恢复已实现，首轮云端安装问题已修复；独立目录中的干净安装、类型检查和网页构建通过，云端上线与用户验收仍另行确认，完整源码私有。
 
 Restore browser access alongside the native iOS client, retaining current protocol configuration, historical participation and income. Existing mobile development continues independently. This restores the web application's prior spot and social functions; it does not claim native perpetual-feature parity or a new extension release.
 
