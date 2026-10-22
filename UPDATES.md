@@ -4,6 +4,16 @@
 
 更新于2026年10月23日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
+## 2026-10-23 Mobile chat continuity / 移动聊天连续性修复
+
+Status: The corrective backend release is live. Runtime source and service readiness were verified; focused checks passed. Two-account device acceptance remains separate. Private implementation only.
+
+状态：后端修复已上线，运行源码与服务就绪状态已核对，定向检查通过；双账号设备验收另行确认，完整实现保持私有。
+
+Repair mobile chat eligibility feedback and retain existing conversation settings across protocol upgrades. Existing conversations continue to enforce current access rights; account login alone does not grant holder benefits. No trading fees or public contracts change in this maintenance release.
+
+修复移动端聊天资格反馈，并在协议升级后延续已有会话设置。已有会话继续核对当前访问权益，登录账号本身不授予持有人权益。本次维护不改变交易收费或公开合约。
+
 ## 2026-10-23 Web market charts / 网页行情图
 
 Status: Repair implemented; focused tests, application build and a real public-data read passed. Hosted rollout and user acceptance remain separate. Private source only.
