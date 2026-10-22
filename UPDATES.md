@@ -4,6 +4,19 @@
 
 更新于2026年10月22日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
+## 2026-10-22 Participation continuity
+
+Status: Protocol rollout deployed; hosted migration verified; compatible iOS development build installed. User acceptance remains separate.
+
+状态：协议已部署，云端迁移已核对，兼容的 iOS 开发构建已安装；用户验收另行确认。
+
+Extended participation progression while retaining existing fees. Historical holdings
+can be upgraded voluntarily; accrued income remains independently claimable. The
+mobile client supports holdings, income and communication access across versions.
+
+已延长参与激励进程，现有收费不变。历史持仓可自愿升级，原有收入继续单独领取；
+移动端支持跨版本持仓、收入与通信准入。
+
 ## 2026-10-22 iOS
 
 Status: Mobile UI updated; source private. No deployment.

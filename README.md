@@ -4,7 +4,11 @@
 
 **An open onchain network of capital influence and economic relationships, and a platform for discovering people and information through capital.**
 
-[Website](https://www.moonship.online/) · [Web app](https://app.moonship.online/app/) · [Chrome extension](https://chromewebstore.google.com/detail/nibgedjlfnhdmefhieibfiebmakdoegl) · [中文说明](README.zh-CN.md) · [Development updates](UPDATES.md)
+[中文说明](README.zh-CN.md) · [Development updates](UPDATES.md)
+
+Current client: native iOS in development distribution. The protocol and hosted
+services are deployed; the retired standalone web application and extension are
+not current product entry points. App Store release and user acceptance are separate.
 
 > **Public repository scope — 17 October 2026**
 >
@@ -40,8 +44,8 @@ Posts are part of their author's economic relationships. Starting from a post or
 | Area | Current implementation | Source in this repository |
 | --- | --- | --- |
 | Protocol | Subject identities, attributed settlement, relationship records, Relation Tokens and received-fee accounting | Summary only; core implementation private |
-| Web application | Profiles, public holdings, personal economic graph / token views, wallet flows and income views | Selected visual source only |
-| X extension | Cashtag discovery, Moon entry, per-post statistics and capital profile modules | Selected visual source only |
+| iOS client | Native profiles, feeds, holdings, wallet and income views with protocol integration; compatible development build installed | Summary only; client source private |
+| Historical web / X extension | Retired standalone targets; selected presentation excerpts retained for context | Selected historical visual source only |
 | Discover | Capital-driven native/settled-X feed, public post traders, people / post rankings and author archives | Summary only; application and indexing implementation private |
 | Relationship benefits | Direct messages, amount- or rank-gated holder groups and holder-only opportunity sharing | Summary only; access and service implementation private |
 | Environments | Configured Monad / Ethereum paths, additional EVM routes for registered assets, and separate testing environments | Runtime setup and operations private |
@@ -58,6 +62,6 @@ The full application depends on private packages and services, so these excerpts
 
 ## Reviewing MoonShip
 
-The live links above provide the product entry points. Full-source review requires the owner's explicit access grant to the private repository; a private repository returning 404 without that grant is expected. Please contact the project owner through the existing submission or collaboration channel to arrange a review.
+The iOS client currently uses development distribution. Full-source review requires the owner's explicit access grant to the private repository; a private repository returning 404 without that grant is expected. Please contact the project owner through the existing submission or collaboration channel to arrange a review.
 
 The omission of source here does not establish independent correctness, product adoption, revenue or a completed security audit. This repository contains no claim of external user counts, fundraising or guaranteed returns.
