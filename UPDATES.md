@@ -1,8 +1,18 @@
 # MoonShip development updates / 项目更新
 
-22 October 2026. Development, deployment and acceptance are separate.
+23 October 2026. Development, deployment and acceptance are separate.
 
-更新于2026年10月22日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
+更新于2026年10月23日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
+
+## 2026-10-23 Mobile perpetual trading
+
+Status: Private implementation and focused checks completed. A separate fee component is deployed and hosted configuration is verified. The updated signed iOS development build is installed; user acceptance remains separate.
+
+状态：私有实现与重点检查已完成，独立费用组件已部署，云端配置已核对；新版 iOS 签名开发构建已安装，用户验收另行确认。
+
+Added native perpetual trading and repaired market selection during account loading. Protocol fees use a separate payment and settlement flow, with visible reserves and refunds. Settlement is explicit in this version. Existing spot trading, historical holdings and accrued income are retained.
+
+新增原生永续合约交易，修复账户加载时无法选择标的问题。协议费用使用独立支付与结算流程，可查看预留和退款；本版主动核对结算，保留现货交易、历史持仓及原有收入。
 
 ## 2026-10-22 Participation continuity
 
