@@ -6,9 +6,9 @@
 
 ## 2026-10-23 Request iOS access / 申请 iOS 体验
 
-Status: Implemented privately; focused form, storage/export and routing checks plus the production web build passed. Hosted rollout and invitation delivery remain separate.
+Status: Hosted web entry is live after focused form, storage/export, routing and production-build checks. Invitations remain an operator task; user acceptance is separate.
 
-状态：已在私有源码实现；表单、保存／导出、路由检查与网页构建通过。云端上线及实际邀请发放另行确认。
+状态：已完成云端上线，表单、保存／导出、路由检查与网页构建通过；实际邀请仍由维护者发放，用户验收另行确认。
 
 The web app now offers an email request entry for iOS access, available without a wallet login. Requests stay private for the operator to review and invite users.
 
