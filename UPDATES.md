@@ -4,6 +4,16 @@
 
 更新于2026年10月23日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
+## 2026-10-23 Request iOS access / 申请 iOS 体验
+
+Status: Implemented privately; focused form, storage/export and routing checks plus the production web build passed. Hosted rollout and invitation delivery remain separate.
+
+状态：已在私有源码实现；表单、保存／导出、路由检查与网页构建通过。云端上线及实际邀请发放另行确认。
+
+The web app now offers an email request entry for iOS access, available without a wallet login. Requests stay private for the operator to review and invite users.
+
+网页新增 iOS 体验邮箱申请入口，无需钱包登录。申请名单仅供维护者私下查看，并由维护者后续发送邀请。
+
 ## 2026-10-23 Mobile chat continuity / 移动聊天连续性修复
 
 Status: The corrective backend release is live. Runtime source and service readiness were verified; focused checks passed. Two-account device acceptance remains separate. Private implementation only.
