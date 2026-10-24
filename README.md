@@ -7,8 +7,19 @@
 [Web app](https://app.moonship.online/app/) · [中文说明](README.zh-CN.md) · [Development updates](UPDATES.md)
 
 Clients: native iOS in development distribution and a restored browser application.
-The web restoration is checked and its rollout is recorded separately; the retired
-extension is not a new release. App Store release and user acceptance are separate.
+The web entry and existing mainnet/testnet services were reachable during the latest
+read-only check. App Store release and broader user acceptance remain separate;
+the standalone extension remains retired.
+
+## Current progress — 25 October 2026
+
+- Mobile spot trading has streamlined native confirmation and separate delivery, network-finality and protocol-settlement states. A small real spot order completed delivery and settlement; this is engineering acceptance, not evidence of market traction.
+- Capital discovery and chat backend corrections are live. Profile loading and relationship-token/network views have further local improvements; multi-user acceptance remains separate.
+- An issuance-policy update is implemented privately and has passed local checks and migration rehearsal. Initial contract deployment has begun; the new policy is inactive and hosted cutover is pending. Current rules and historical income claims remain in place.
+- Native perpetual trading and its separate fee component retain their previously recorded release stages. The additional integrated funding path is locally implemented and not enabled in the current public configuration.
+- Development builds are installed locally. Broader beta distribution, complete user funding/exit/chat acceptance, and independent security review are not established by these milestones.
+
+See the [dated release notes](UPDATES.md) and [implementation status](docs/IMPLEMENTATION_STATUS.md). Fees and issuance ideas discussed during product design are not live policies unless explicitly recorded as activated.
 
 > **Public repository scope — 17 October 2026**
 >
@@ -45,7 +56,7 @@ Posts are part of their author's economic relationships. Starting from a post or
 | --- | --- | --- |
 | Protocol | Subject identities, attributed settlement, relationship records, Relation Tokens and received-fee accounting | Summary only; core implementation private |
 | iOS client | Native profiles, feeds, holdings, wallet and income views with protocol integration; compatible development build installed | Summary only; client source private |
-| Web application | Restored to run alongside iOS; current configuration and shared client SDK; rollout and user acceptance separate | Summary only; full source private |
+| Web application | Restored alongside iOS; public entry available, with hosted availability and user-flow acceptance recorded separately | Summary only; full source private |
 | Historical X extension | Retired standalone targets; selected presentation excerpts retained for context | Selected historical visual source only |
 | Discover | Capital-driven native/settled-X feed, public post traders, people / post rankings and author archives | Summary only; application and indexing implementation private |
 | Relationship benefits | Direct messages, amount- or rank-gated holder groups and holder-only opportunity sharing | Summary only; access and service implementation private |
