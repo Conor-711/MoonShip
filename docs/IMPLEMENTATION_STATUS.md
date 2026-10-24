@@ -9,7 +9,7 @@ Updated 25 October 2026. This document separates implemented private functionali
 | Native perpetual trading | Implemented privately; market selection and focused checks passed. Independent fees deployed with hosted configuration verified; explicit settlement and refunds supported. Updated signed development build installed; user acceptance and perpetual relation issuance remain separate | [Dated updates](../UPDATES.md) |
 | Stable subjects, wallet/X identity and subject profiles | Implemented; X-following discovery and claimed-avatar badges checked; full source private | Product explanation and live application |
 | Source-selected asset purchases and settlement | Implemented; a small real spot order completed delivery and final settlement; additional routes and user acceptance remain separately verified; full source private | User journey and configured live product |
-| Subject–asset Relation Tokens and received-fee participation | Existing version remains active; issuance update locally checked and partially deployed, not activated; historical holdings and claims retained; full implementation private | Product-level explanation and application views |
+| Subject–asset Relation Tokens and received-fee participation | Issuance update activated onchain after finality checks; hosted migration verified; historical holdings and claims retained; full implementation private | Product-level explanation and application views |
 | Public subject holdings | Implemented in the protocol mobile client; full source private | Holdings view and [dated updates](../UPDATES.md) |
 | Capital metrics and personal economic graph | Implemented; full source private | Metric definitions, selected UI styles and application |
 | X cashtag Moon entry, post statistics and profile modules | Implemented; full source private | Historical UI excerpts; extension target retired |
@@ -23,11 +23,11 @@ Updated 25 October 2026. This document separates implemented private functionali
 
 ## Latest verification and pending acceptance
 
-The existing mainnet/testnet health endpoints and web entry were reachable in the latest read-only check. Public configuration still selects the existing active issuance version. The new issuance update is privately implemented, locally checked and partially deployed; activation and hosted migration are pending. Existing income claims remain independent. New fee-allocation proposals are not activated by discussion or by publishing these documents.
+The existing mainnet/testnet health endpoints and web entry were reachable in the latest read-only check. The issuance update is activated onchain after local checks, rehearsal and finalized-receipt verification. Hosted configuration, runtime migration and service readiness are verified. Existing income claims remain independent. New fee-allocation proposals are not activated by discussion or by publishing these documents.
 
 Mobile spot confirmation and delivery-progress improvements have focused checks and local device delivery. A small real order completed destination delivery and final protocol settlement. This individual observation does not establish arbitrary-route readiness, external adoption or repeat usage. Profile and relationship-view changes have targeted local checks; two-account chat and full external-user funding/exit acceptance remain separate. The integrated perpetual-funding implementation is not enabled in current public configuration.
 
-最新只读核对中，现有主网／测试网健康接口和网页入口均可访问。新版发行改造已实现、完成本地检查并开始部分部署，尚未激活或切换托管服务，现有版本及历史收入领取路径保留。讨论中的新分费方案未启用。移动端确认与到账展示已有定向检查、设备交付和一笔小额真实现货闭环证据；双账号聊天、完整外部用户资金流程、外部分发及独立安全审阅仍需单独确认。新增的一体化永续资金通道尚未在公开配置启用。
+最新只读核对中，现有主网／测试网健康接口和网页入口均可访问。新版发行改造已实现、完成本地检查与链上激活，托管迁移及服务就绪已核对，现有收费及历史收入领取路径保留。讨论中的新分费方案未启用。移动端确认与到账展示已有定向检查、设备交付和一笔小额真实现货闭环证据；双账号聊天、完整外部用户资金流程、外部分发及独立安全审阅仍需单独确认。新增的一体化永续资金通道尚未在公开配置启用。
 
 ## What supports these statements
 

@@ -6,17 +6,17 @@
 
 ## 2026-10-25 Mobile progress and rollout status / 移动端进展与发布状态
 
-Status: Mixed release stages; private implementation. Existing services remain available. The new issuance policy is not active.
+Status: Mixed release stages; private implementation. Existing services remain available. The issuance update is active onchain; hosted configuration and migration are verified.
 
-状态：各模块发布阶段不同，完整实现私有。现有服务保持可用，新版发行规则尚未激活。
+状态：各模块发布阶段不同，完整实现私有。新版发行规则已完成链上激活及托管切换核对。
 
 - Mobile spot trading now has a single native confirmation and clearer delivery/finality states. A small real spot order completed delivery and settlement. Development builds are installed; broader distribution and user acceptance remain separate.
 - Capital discovery and chat backend repairs are live. Further profile and relationship-view improvements have focused local checks; two-account chat acceptance remains pending.
-- The issuance update passed local checks and migration rehearsal. Initial contract deployment has started; activation and hosted cutover remain pending. Existing rules and historical claims remain in place. No newly discussed fee split is activated.
+- The issuance update passed local checks and migration rehearsal. Onchain activation, finality and hosted migration are verified. Existing fees and historical claims are retained. No newly discussed fee split is activated.
 
 - 移动现货交易改为一次原生确认，区分到账与最终确认；一笔小额真实订单已完成到账和结算。开发包已安装，外部分发及用户验收另计。
 - 资金推荐与聊天后端修复已上线；资料和关系视图进一步优化通过定向本地检查，双账号聊天验收仍待完成。
-- 新版发行改造与迁移演练已通过，初始合约部署已开始；激活及托管切换尚待完成。现有规则和历史领取路径保留，讨论中的新分费方案未启用。
+- 新版发行改造与迁移演练已通过，链上激活、最终确认及托管迁移已核对；现有收费和历史领取路径保留，讨论中的新分费方案未启用。
 
 ## 2026-10-23 Request iOS access / 申请 iOS 体验
 

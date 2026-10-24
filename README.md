@@ -15,7 +15,7 @@ the standalone extension remains retired.
 
 - Mobile spot trading has streamlined native confirmation and separate delivery, network-finality and protocol-settlement states. A small real spot order completed delivery and settlement; this is engineering acceptance, not evidence of market traction.
 - Capital discovery and chat backend corrections are live. Profile loading and relationship-token/network views have further local improvements; multi-user acceptance remains separate.
-- An issuance-policy update is implemented privately and has passed local checks and migration rehearsal. Initial contract deployment has begun; the new policy is inactive and hosted cutover is pending. Current rules and historical income claims remain in place.
+- An issuance-policy update is implemented privately and has passed local checks and migration rehearsal. Onchain activation, finality and hosted migration are verified. Existing fees and historical income claims are retained.
 - Native perpetual trading and its separate fee component retain their previously recorded release stages. The additional integrated funding path is locally implemented and not enabled in the current public configuration.
 - Development builds are installed locally. Broader beta distribution, complete user funding/exit/chat acceptance, and independent security review are not established by these milestones.
 
