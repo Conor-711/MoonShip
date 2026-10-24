@@ -23,9 +23,9 @@ Updated 25 October 2026. This document separates implemented private functionali
 
 ## Latest verification and pending acceptance
 
-Homepage loading maintenance is deployed and read-only checks observed faster responses. Mobile user acceptance remains separate.
+Homepage background-update improvements are deployed and read-only verified. The native cache update is installed; mobile user acceptance remains separate.
 
-首页加载维护已上线，只读检查观察到响应改善；手机用户验收仍单独记录。
+首页后台更新优化已上线并通过只读核对，本机缓存版本已安装；手机用户验收仍单独记录。
 
 The existing mainnet/testnet health endpoints and web entry were reachable in the latest read-only check. The issuance update is activated onchain after local checks, rehearsal and finalized-receipt verification. Hosted configuration, runtime migration and service readiness are verified. Existing income claims remain independent. New fee-allocation proposals are not activated by discussion or by publishing these documents.
 

@@ -13,7 +13,7 @@ the standalone extension remains retired.
 
 ## Current progress — 25 October 2026
 
-Homepage loading maintenance is deployed. Read-only checks observed faster responses; mobile user acceptance remains pending.
+Homepage reads now return text while updating in the background. The native cache update is installed; user acceptance remains separate.
 
 - Mobile spot trading has streamlined native confirmation and separate delivery, network-finality and protocol-settlement states. A small real spot order completed delivery and settlement; this is engineering acceptance, not evidence of market traction.
 - Capital discovery and chat backend corrections are live. Profile loading and relationship-token/network views have further local improvements; multi-user acceptance remains separate.

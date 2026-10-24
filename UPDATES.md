@@ -6,13 +6,13 @@
 
 ## 2026-10-25 Homepage loading / 首页加载
 
-Status: Deployed; read-only checks passed.
+Status: Backend deployed; native update installed.
 
-状态：已上线，只读检查通过。
+状态：后端已上线，手机更新已安装。
 
-Homepage loading improved; mobile acceptance remains pending.
+Cached text appears first; updates run in the background.
 
-首页加载已改善，手机端仍待用户验收。
+先显示已缓存正文，后台更新数据。
 
 ## 2026-10-25 Mobile progress and rollout status / 移动端进展与发布状态
 
