@@ -4,6 +4,16 @@
 
 更新于2026年10月25日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
 
+## 2026-10-25 Homepage loading / 首页加载
+
+Status: Deployed; read-only checks passed.
+
+状态：已上线，只读检查通过。
+
+Homepage loading improved; mobile acceptance remains pending.
+
+首页加载已改善，手机端仍待用户验收。
+
 ## 2026-10-25 Mobile progress and rollout status / 移动端进展与发布状态
 
 Status: Mixed release stages; private implementation. Existing services remain available. The issuance update is active onchain; hosted configuration and migration are verified.

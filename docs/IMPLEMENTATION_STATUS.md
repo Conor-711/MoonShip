@@ -23,6 +23,10 @@ Updated 25 October 2026. This document separates implemented private functionali
 
 ## Latest verification and pending acceptance
 
+Homepage loading maintenance is deployed and read-only checks observed faster responses. Mobile user acceptance remains separate.
+
+首页加载维护已上线，只读检查观察到响应改善；手机用户验收仍单独记录。
+
 The existing mainnet/testnet health endpoints and web entry were reachable in the latest read-only check. The issuance update is activated onchain after local checks, rehearsal and finalized-receipt verification. Hosted configuration, runtime migration and service readiness are verified. Existing income claims remain independent. New fee-allocation proposals are not activated by discussion or by publishing these documents.
 
 Mobile spot confirmation and delivery-progress improvements have focused checks and local device delivery. A small real order completed destination delivery and final protocol settlement. This individual observation does not establish arbitrary-route readiness, external adoption or repeat usage. Profile and relationship-view changes have targeted local checks; two-account chat and full external-user funding/exit acceptance remain separate. The integrated perpetual-funding implementation is not enabled in current public configuration.
