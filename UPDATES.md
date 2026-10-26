@@ -1,8 +1,12 @@
-# MoonShip development updates / 项目更新
+# MoonShip updates / 项目更新
 
-25 October 2026. Development, deployment and acceptance are separate.
+## 2026-10-26 Posts / 帖子互动
 
-更新于2026年10月25日。实现私有；开发、部署与验收分别记录。历史条目于10月17日汇总。
+Status: Backend live; app installation deferred.
+状态：后端已上线，手机稍后安装。
+
+I added likes, unlikes and quote posts.
+我加入了点赞、取消点赞和引用发帖。
 
 ## 2026-10-25 Homepage loading / 首页加载
 
