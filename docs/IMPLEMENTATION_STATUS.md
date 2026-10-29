@@ -1,9 +1,10 @@
 # Implementation status
 
-Updated 25 October 2026. This document separates implemented private functionality from source that is available in this public repository. Client distribution includes native iOS development and the restored web application; extension targets remain retired. Historical UI excerpts are not a deployable current client.
+Updated 29 October 2026. This document separates implemented private functionality from source that is available in this public repository. Client distribution includes native iOS development and the restored web application; extension targets remain retired. Historical UI excerpts are not a deployable current client.
 
 | Capability | Maintainer-recorded status | Public review surface |
 | --- | --- | --- |
+| Infomarket public testnet | Web page and test-token settlement deployed on Monad Testnet; order book, long/short positions, cancellation, funds and real fills verified. Manually curated topics; user acceptance and independent audit remain separate; private implementation | [Dated updates](../UPDATES.md) |
 | Web application | Restored to run alongside iOS using the current client SDK; public web entry available; focused installation/build checks recorded, with end-to-end user acceptance separate; private source | [Dated updates](../UPDATES.md) |
 | iOS protocol client | Native authentication, confirmation and recovery; improved spot controls, delivery states and profile/relationship reads; local signed builds installed. Broader distribution and user acceptance remain separate; source private | [Dated updates](../UPDATES.md) |
 | Native perpetual trading | Implemented privately; market selection and focused checks passed. Independent fees deployed with hosted configuration verified; explicit settlement and refunds supported. Updated signed development build installed; user acceptance and perpetual relation issuance remain separate | [Dated updates](../UPDATES.md) |

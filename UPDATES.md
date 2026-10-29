@@ -1,5 +1,17 @@
 # MoonShip updates / 项目更新
 
+## 2026-10-29 Infomarket public testnet / Infomarket 公开测试网
+
+Status: Contracts and web live on Monad Testnet.
+状态：合约和网页已在 Monad 测试网上线。
+
+I added an information-importance market with an order book, long/short positions,
+cancellation, test-fund deposits/withdrawals and genuine fill history. Topics are
+manually curated. Mainnet launch, user acceptance and independent audit are separate.
+
+我加入了信息重要性交易市场，提供订单簿、多空持仓、撤单、测试资金存取和真实成交记录。
+主题先由项目方创建；主网上线、用户验收与独立审计另计。
+
 ## 2026-10-26 Posts / 帖子互动
 
 Status: Backend live; app installation deferred.
@@ -18,19 +30,18 @@ Cached text appears first; updates run in the background.
 
 先显示已缓存正文，后台更新数据。
 
-## 2026-10-25 Mobile progress and rollout status / 移动端进展与发布状态
+## 2026-10-25 Mobile progress and rollout status / 移动端与发布状态
 
-Status: Mixed release stages; private implementation. Existing services remain available. The issuance update is active onchain; hosted configuration and migration are verified.
+Status: Issuance and hosted migration verified; native build installed. User acceptance remains separate.
+状态：发行更新与托管迁移已核对，手机开发包已安装，用户验收另计。
 
-状态：各模块发布阶段不同，完整实现私有。新版发行规则已完成链上激活及托管切换核对。
+Spot confirmation, delivery states and profile reads improved; a small real spot
+order settled. Discovery/chat repairs are live. Historical claims and fees remain;
+no newly discussed fee split was enabled. Further UI checks and broader client
+distribution have separate release stages.
 
-- Mobile spot trading now has a single native confirmation and clearer delivery/finality states. A small real spot order completed delivery and settlement. Development builds are installed; broader distribution and user acceptance remain separate.
-- Capital discovery and chat backend repairs are live. Further profile and relationship-view improvements have focused local checks; two-account chat acceptance remains pending.
-- The issuance update passed local checks and migration rehearsal. Onchain activation, finality and hosted migration are verified. Existing fees and historical claims are retained. No newly discussed fee split is activated.
-
-- 移动现货交易改为一次原生确认，区分到账与最终确认；一笔小额真实订单已完成到账和结算。开发包已安装，外部分发及用户验收另计。
-- 资金推荐与聊天后端修复已上线；资料和关系视图进一步优化通过定向本地检查，双账号聊天验收仍待完成。
-- 新版发行改造与迁移演练已通过，链上激活、最终确认及托管迁移已核对；现有收费和历史领取路径保留，讨论中的新分费方案未启用。
+改进现货确认、交付状态和资料读取，小额真实订单已结算。发现和聊天修复已上线。
+保留历史领取与收费，未启用新讨论的分费方案；进一步界面验收与扩大分发另计。
 
 ## 2026-10-23 Request iOS access / 申请 iOS 体验
 
