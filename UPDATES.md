@@ -2,15 +2,15 @@
 
 ## 2026-10-29 Infomarket public testnet / Infomarket 公开测试网
 
-Status: Contracts and web live on Monad Testnet.
-状态：合约和网页已在 Monad 测试网上线。
+Status: Testnet trading and event administration are live.
+状态：测试网交易和事件后台已上线。
 
-I added an information-importance market with an order book, long/short positions,
-cancellation, test-fund deposits/withdrawals and genuine fill history. Topics are
-manually curated. Mainnet launch, user acceptance and independent audit are separate.
+The public-testnet order book now includes an operator event manager and live
+information updates. Test funding, long/short positions and real fills are
+available. Topics are manual; user acceptance, audit and mainnet remain separate.
 
-我加入了信息重要性交易市场，提供订单簿、多空持仓、撤单、测试资金存取和真实成交记录。
-主题先由项目方创建；主网上线、用户验收与独立审计另计。
+公开测试网订单簿新增管理员事件后台和实时信息更新，支持测试资金、多空持仓和真实成交记录。
+主题由人工维护；用户验收、独立审计和主网上线另计。
 
 ## 2026-10-26 Posts / 帖子互动
 
