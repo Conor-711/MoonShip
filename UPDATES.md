@@ -12,6 +12,9 @@ available. Topics are manual; user acceptance, audit and mainnet remain separate
 公开测试网订单簿新增管理员事件后台和实时信息更新，支持测试资金、多空持仓和真实成交记录。
 主题由人工维护；用户验收、独立审计和主网上线另计。
 
+Fixed administrator sessions so login persists across page reloads.
+修复管理员会话，登录后刷新页面可继续使用。
+
 ## 2026-10-26 Posts / 帖子互动
 
 Status: Backend live; app installation deferred.
