@@ -2,16 +2,16 @@
 
 ## 2026-10-30 Infomarket public testnet / Infomarket 公开测试网
 
-Status: Independent market, admin, candidates and simulation live.
-状态：独立市场、后台、候选箱和模拟资金已上线。
+Status: Market, admin, candidates and simulation live.
+状态：市场、后台、候选箱和模拟资金已上线。
 
-InfoMarket combines charts, sources and trading, with a labeled importance slider.
-Seventeen BTC/Monad candidates can become editable drafts before publication.
-First use grants 1,000 test dollars; balances persist across logins. Hosted checks
-passed; browser acceptance, mainnet and audit remain separate.
+Charts, sources, trading and labeled quote sliders. Markets stay visible through
+account read failures. Seventeen BTC/Monad candidates can become editable drafts
+before publication. First use grants 1,000 test dollars; balances persist. Hosted
+checks passed; browser acceptance, mainnet and audit remain separate.
 
-InfoMarket 整合图表、信息与交易，重要性报价改用文案刻度。17条BTC／Monad候选
-可先编辑为草稿再发布。首次获1,000测试美元，登录保留余额。线上检查通过；浏览器验收、主网与审计另计。
+整合图表、信息与交易及文案刻度，账户读取失败不再隐藏市场。17条BTC／Monad候选
+可编辑为草稿再发布。首次获1,000测试美元，登录保留余额。线上检查通过；浏览器验收、主网与审计另计。
 
 ## 2026-10-26 Posts / 帖子互动
 
