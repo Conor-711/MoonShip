@@ -5,13 +5,14 @@
 Status: Public testnet live; browser acceptance separate.
 状态：公开测试网上线，浏览器验收另计。
 
-Chart, book, order review and position management now share one workspace. Account
-read failures retain markets. Seventeen BTC/Monad candidates support editorial
-selection. Initial simulated capital persists across login. Hosted checks passed;
-mainnet and independent audit remain separate.
+Chart, book, order review and positions share one workspace. History/account
+outages retain market browsing, with local history retry states. Seventeen
+BTC/Monad candidates support editorial selection. Initial simulated capital
+persists. Hosted checks passed; browser acceptance, mainnet and audit are separate.
 
-行情、盘口、订单检查与持仓整合为交易工作台，账户读取失败仍可浏览市场。
-17条BTC／Monad候选供后台挑选，首次模拟资金登录后保留。线上检查通过；主网与独立审计另计。
+行情、盘口、订单检查与持仓整合为工作台，历史或账户读取失败仍可浏览市场，
+历史单独重试。17条BTC／Monad候选供挑选，初始模拟资金保留。
+线上检查通过；浏览器验收、主网与审计另计。
 
 ## 2026-10-26 Posts / 帖子互动
 
