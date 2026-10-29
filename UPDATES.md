@@ -2,18 +2,16 @@
 
 ## 2026-10-29 Infomarket public testnet / Infomarket 公开测试网
 
-Status: Testnet trading and event administration are live.
-状态：测试网交易和事件后台已上线。
+Status: Testnet/admin and revised web layout live; hosted resources verified.
+状态：测试网、后台与新版网页排版已上线，线上资源核对通过。
 
-The public-testnet order book now includes an operator event manager and live
-information updates. Test funding, long/short positions and real fills are
-available. Topics are manual; user acceptance, audit and mainnet remain separate.
+Searchable, responsive market cards lead to event charts, information tabs and
+trading. Test funding, long/short positions, fills and operator information updates
+remain. Administrator login survives reloads. Topics are manual; mainnet, user
+acceptance and audit remain separate.
 
-公开测试网订单簿新增管理员事件后台和实时信息更新，支持测试资金、多空持仓和真实成交记录。
-主题由人工维护；用户验收、独立审计和主网上线另计。
-
-Fixed administrator sessions so login persists across page reloads.
-修复管理员会话，登录后刷新页面可继续使用。
+响应式市场卡片支持搜索，事件页整合图表、信息标签与交易。保留测试资金、多空、成交及后台信息更新，管理员登录刷新可保留。
+主题人工维护；主网、用户验收与审计另计。
 
 ## 2026-10-26 Posts / 帖子互动
 
