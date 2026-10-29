@@ -2,16 +2,15 @@
 
 ## 2026-10-29 Infomarket public testnet / Infomarket 公开测试网
 
-Status: Testnet/admin/candidates and full-width web layout live.
-状态：测试网、后台、候选箱和全宽网页排版已上线。
+Status: Independent market workspace and existing testnet/admin/candidates live.
+状态：独立市场界面及现有测试网、后台与候选箱已上线。
 
-Full-width, searchable market cards lead to event charts, information and trading. A dated
-BTC/Monad candidate inbox lets operators review sources, edit and save drafts
-before publishing. Login survives reloads. Mainnet, user acceptance and audit
-remain separate.
+InfoMarket has an independent, full-width workspace for markets, charts, sources
+and trading. The dated BTC/Monad operator inbox retains source review and drafts
+before publication. Wallet login and test funding remain; mainnet, user acceptance
+and audit are separate.
 
-全宽市场卡片整合搜索、图表、信息与交易。新增 BTC／Monad 候选箱，可筛选来源、
-编辑并保存草稿，再决定发布；刷新可保持登录。主网、用户验收与审计另计。
+InfoMarket 采用独立全宽界面，保留市场、图表、信息与交易。后台 BTC／Monad 候选箱保留来源审阅和发布前草稿，沿用钱包登录与测试资金；主网、用户验收与审计另计。
 
 ## 2026-10-26 Posts / 帖子互动
 
