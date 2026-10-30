@@ -5,13 +5,13 @@
 Status: Public testnet live; browser acceptance separate.
 状态：公开测试网上线，浏览器验收另计。
 
-Chart, book and positions now sit beside a compact order ticket with persistent
-actions. History/account outages retain browsing and retry. Seventeen BTC/Monad
-candidates await selection; initial simulated capital persists. Hosted checks
+Chart, book and positions share a compact workspace. Read outages retry through
+verified nodes; failed reads cannot authorize trades. Seventeen BTC/Monad
+candidates support selection; initial simulated capital persists. Hosted checks
 passed; browser acceptance, mainnet and audit remain separate.
 
-行情、盘口与持仓并列紧凑下单区，保留可见操作入口。历史或账户读取失败可重试，
-不阻断浏览。17条BTC／Monad候选待选，模拟资金保留。线上检查通过；
+行情、盘口与持仓整合为紧凑工作台。节点故障可切换恢复，读取失败时停止下单。
+17条BTC／Monad候选供挑选，初始模拟资金保留。线上检查通过；
 浏览器验收、主网与审计另计。
 
 ## 2026-10-26 Posts / 帖子互动
