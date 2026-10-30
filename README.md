@@ -79,3 +79,5 @@ The full application depends on private packages and services, so these excerpts
 The iOS client currently uses development distribution. Full-source review requires the owner's explicit access grant to the private repository; a private repository returning 404 without that grant is expected. Please contact the project owner through the existing submission or collaboration channel to arrange a review.
 
 The omission of source here does not establish independent correctness, product adoption, revenue or a completed security audit. This repository contains no claim of external user counts, fundraising or guaranteed returns.
+
+Identity and publication compatibility work passed focused development checks. Service rollout and real-device acceptance are pending; this integration introduces no new protocol fee or issuance.

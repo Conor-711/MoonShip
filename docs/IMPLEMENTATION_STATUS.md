@@ -49,3 +49,5 @@ Independent audit completion, external user counts, revenue and fundraising are 
 ## Dated progress
 
 See [development updates](../UPDATES.md) for dated product changes. Historical development dates and confirmed publication milestones are identified separately. Future synchronization publishes high-level Markdown updates only; core code and mechanism details remain private.
+
+Identity and publication compatibility work passed focused development checks. Service rollout and real-device acceptance are pending; this integration introduces no new protocol fee or issuance.

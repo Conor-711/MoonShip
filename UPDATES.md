@@ -1,5 +1,9 @@
 # MoonShip updates / 项目更新
 
+## 2026-10-31 Identity / 身份
+
+Status: Dev checked. 状态：开发验证。
+
 ## 2026-10-30 Infomarket public testnet / Infomarket 公开测试网
 
 Status: Public testnet live; gas and submission recovery updated.
