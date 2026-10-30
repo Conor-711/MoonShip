@@ -5,14 +5,14 @@
 Status: Public testnet live; monthly candidate import verified.
 状态：公开测试网上线，月度候选导入已核对。
 
-Quotes display as cents prices. Verified nodes recover read outages; failed reads
-cannot authorize trades. BTC/Ethereum/Monad now have 41 reviewed candidates and a
-monthly review window. Prior selections and simulated capital persist;
-browser acceptance, mainnet and audit remain separate.
+Cents quotes and refresh recovery are live; stale data cannot authorize trades.
+BTC/Ethereum/Monad have 41 reviewed candidates and monthly selection.
+Prior choices and simulated capital persist. Hosted checks passed;
+browser acceptance and audit remain separate.
 
-报价以美分展示，节点故障可切换恢复，读取失败时停止下单。
-BTC／Ethereum／Monad已有41条来源核对候选，支持月度筛选。
-保留已有选择与模拟资金；浏览器验收、主网与审计另计。
+美分报价与刷新恢复已上线，过期数据不能用于下单。
+BTC／Ethereum／Monad已有41条核对候选，支持月度筛选。
+保留选择和模拟资金。线上检查通过，浏览器验收与审计另计。
 
 ## 2026-10-26 Posts / 帖子互动
 
