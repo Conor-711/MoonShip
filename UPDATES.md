@@ -2,17 +2,17 @@
 
 ## 2026-10-30 Infomarket public testnet / Infomarket 公开测试网
 
-Status: Public testnet live; monthly candidate import verified.
-状态：公开测试网上线，月度候选导入已核对。
+Status: Public testnet live; gas and submission recovery updated.
+状态：公开测试网上线，Gas 与交易恢复已更新。
 
-Cents quotes and refresh recovery are live; stale data cannot authorize trades.
-BTC/Ethereum/Monad have 41 reviewed candidates and monthly selection.
-Prior choices and simulated capital persist. Hosted checks passed;
-browser acceptance and audit remain separate.
+Cents quotes, refresh recovery and monthly BTC/ETH/MON candidates are live.
+Test gas is checked before trading. Account funding and interrupted requests have
+clearer recovery controls. Simulated capital persists. Focused and hosted checks
+passed; browser acceptance and audit remain separate.
 
-美分报价与刷新恢复已上线，过期数据不能用于下单。
-BTC／Ethereum／Monad已有41条核对候选，支持月度筛选。
-保留选择和模拟资金。线上检查通过，浏览器验收与审计另计。
+已上线美分报价、刷新恢复及 BTC／ETH／MON 月度候选。
+交易前检查测试 Gas，账户补给与中断请求增加恢复入口。
+保留模拟资金。定向与线上检查通过，浏览器验收与审计另计。
 
 ## 2026-10-26 Posts / 帖子互动
 
