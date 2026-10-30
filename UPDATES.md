@@ -2,17 +2,17 @@
 
 ## 2026-10-30 Infomarket public testnet / Infomarket 公开测试网
 
-Status: Public testnet live; browser acceptance separate.
-状态：公开测试网上线，浏览器验收另计。
+Status: Public testnet live; monthly candidate import verified.
+状态：公开测试网上线，月度候选导入已核对。
 
-Quotes now display as cents prices across the trading workspace. Read outages retry through
-verified nodes; failed reads cannot authorize trades. Seventeen BTC/Monad
-candidates support selection; initial simulated capital persists. Hosted checks
-passed; browser acceptance, mainnet and audit remain separate.
+Quotes display as cents prices. Verified nodes recover read outages; failed reads
+cannot authorize trades. BTC/Ethereum/Monad now have 41 reviewed candidates and a
+monthly review window. Prior selections and simulated capital persist;
+browser acceptance, mainnet and audit remain separate.
 
-交易工作台统一以美分展示报价。节点故障可切换恢复，读取失败时停止下单。
-17条BTC／Monad候选供挑选，初始模拟资金保留。线上检查通过；
-浏览器验收、主网与审计另计。
+报价以美分展示，节点故障可切换恢复，读取失败时停止下单。
+BTC／Ethereum／Monad已有41条来源核对候选，支持月度筛选。
+保留已有选择与模拟资金；浏览器验收、主网与审计另计。
 
 ## 2026-10-26 Posts / 帖子互动
 
