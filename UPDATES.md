@@ -2,7 +2,7 @@
 
 ## 2026-10-31 Identity / 身份
 
-Status: Dev checked. 状态：开发验证。
+Relay build fix checked. 服务构建修复验证。
 
 ## 2026-10-30 Infomarket public testnet / Infomarket 公开测试网
 

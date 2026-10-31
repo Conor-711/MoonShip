@@ -81,3 +81,5 @@ The iOS client currently uses development distribution. Full-source review requi
 The omission of source here does not establish independent correctness, product adoption, revenue or a completed security audit. This repository contains no claim of external user counts, fundraising or guaranteed returns.
 
 Identity and publication compatibility work passed focused development checks. Service rollout and real-device acceptance are pending; this integration introduces no new protocol fee or issuance.
+
+2026-10-31: Operational signer test compatibility checked. 操作签名测试兼容性已验证。
